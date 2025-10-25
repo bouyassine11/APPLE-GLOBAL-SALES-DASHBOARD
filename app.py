@@ -1,7 +1,7 @@
 # ==========================================================
 # 🍏 APPLE GLOBAL SALES DASHBOARD 2024 — Power BI Style
 # ==========================================================
-
+ 
 import streamlit as st
 import pandas as pd
 import plotly.express as px
