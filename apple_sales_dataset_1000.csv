@@ -1,0 +1,1001 @@
+OrderID,Date,Product,Category,Region,Country,City,Store,Quantity,UnitPrice,TotalRevenue,PaymentMethod,CustomerSegment
+1,2024-04-12,"MacBook Pro 16""",Computers,Middle East,UAE,Dubai,Apple Orchard Road,1,2413.04,2413.04,Apple Pay,Enterprise
+2,2024-11-26,Apple Watch Ultra,Wearables,Middle East,Saudi Arabia,Jeddah,Apple Orchard Road,2,763.56,1527.11,PayPal,Premium
+3,2024-10-20,iPhone 15,Smartphone,South America,Brazil,São Paulo,Apple Pacific Centre,2,759.61,1519.23,Credit Card,Consumer
+4,2024-02-28,AirPods Max,Accessories,Europe,Italy,Florence,Apple Michigan Avenue,1,575.53,575.53,Credit Card,Enterprise
+5,2024-11-02,iPad Pro,Tablets,Middle East,UAE,Dubai,Apple Union Square,4,1150.17,4600.69,Debit Card,Premium
+6,2024-09-21,Apple Watch Series 9,Wearables,Middle East,Saudi Arabia,Jeddah,Apple Pacific Centre,1,383.92,383.92,Bank Transfer,Education
+7,2024-02-04,AirPods 3rd Gen,Accessories,North America,Canada,Vancouver,Apple Orchard Road,2,177.66,355.32,Debit Card,Education
+8,2024-11-05,AirPods Pro,Accessories,Europe,Germany,Munich,Apple IFC Mall,3,251.44,754.31,PayPal,Consumer
+9,2024-07-08,iPad Air,Tablets,Middle East,Saudi Arabia,Riyadh,Apple Union Square,1,604.2,604.2,Credit Card,Education
+10,2024-07-06,Apple Watch SE,Wearables,Middle East,UAE,Dubai,Apple Fifth Avenue,1,247.09,247.09,Credit Card,Education
+11,2024-05-15,iPad Air,Tablets,Asia,South Korea,Seoul,Apple Orchard Road,2,615.25,1230.5,Bank Transfer,Premium
+12,2024-08-18,Apple Watch Series 9,Wearables,North America,Canada,Montreal,Apple Sydney,2,392.25,784.51,Bank Transfer,Enterprise
+13,2024-06-20,iPad Air,Tablets,Asia,South Korea,Seoul,Apple Michigan Avenue,1,611.77,611.77,Credit Card,Consumer
+14,2024-08-05,iPad Pro,Tablets,Asia,China,Hong Kong,Apple IFC Mall,1,1055.91,1055.91,Credit Card,Education
+15,2024-04-05,"MacBook Pro 16""",Computers,Middle East,UAE,Dubai,Apple Eaton Centre,1,2609.67,2609.67,Apple Pay,Enterprise
+16,2024-03-26,Apple Watch SE,Wearables,Europe,Germany,Berlin,Apple Sydney,1,247.92,247.92,PayPal,Education
+17,2024-12-05,AirPods 3rd Gen,Accessories,Asia,Japan,Kyoto,Apple Pacific Centre,1,186.28,186.28,Credit Card,Consumer
+18,2024-10-09,AirPods 3rd Gen,Accessories,North America,Canada,Toronto,Apple Sydney,1,173.0,173.0,Apple Pay,Consumer
+19,2024-11-13,"MacBook Pro 14""",Computers,North America,USA,Los Angeles,Apple Pacific Centre,1,1932.69,1932.69,Credit Card,Education
+20,2024-04-22,AirPods 3rd Gen,Accessories,North America,Canada,Vancouver,Apple Dubai Mall,1,175.44,175.44,Credit Card,Education
+21,2024-03-21,Apple Watch Ultra,Wearables,North America,Canada,Vancouver,Apple Pacific Centre,1,781.31,781.31,Credit Card,Consumer
+22,2024-05-05,iPhone 15,Smartphone,Middle East,Saudi Arabia,Jeddah,Apple Champs-Élysées,1,812.75,812.75,Apple Pay,Education
+23,2024-05-02,iPhone 15 Pro,Smartphone,Middle East,Saudi Arabia,Jeddah,Apple Champs-Élysées,1,1030.61,1030.61,Credit Card,Consumer
+24,2024-05-03,Apple Watch Ultra,Wearables,Middle East,UAE,Abu Dhabi,Apple Pacific Centre,2,760.38,1520.75,Apple Pay,Enterprise
+25,2024-05-26,"MacBook Pro 16""",Computers,South America,Brazil,São Paulo,Apple Orchard Road,1,2608.14,2608.14,Credit Card,Enterprise
+26,2024-05-30,AirPods Max,Accessories,Europe,France,Marseille,Apple Pacific Centre,1,575.47,575.47,PayPal,Education
+27,2024-01-02,iPhone 15 Pro,Smartphone,South America,Brazil,São Paulo,Apple Eaton Centre,1,976.91,976.91,Apple Pay,Education
+28,2024-07-26,iPhone 14,Smartphone,South America,Mexico,Guadalajara,Apple Orchard Road,3,723.53,2170.59,Credit Card,Education
+29,2024-04-13,"MacBook Pro 16""",Computers,Asia,China,Hong Kong,Apple Sydney,1,2414.24,2414.24,Debit Card,Premium
+30,2024-11-05,iPhone 14,Smartphone,Middle East,UAE,Abu Dhabi,Apple Fifth Avenue,1,698.57,698.57,PayPal,Education
+31,2024-05-14,iPhone 14,Smartphone,North America,Canada,Toronto,Apple Pacific Centre,1,708.53,708.53,Bank Transfer,Enterprise
+32,2024-09-20,Apple Watch Ultra,Wearables,Asia,Japan,Tokyo,Apple Fifth Avenue,1,798.4,798.4,Bank Transfer,Education
+33,2024-11-12,iPhone 14,Smartphone,South America,Brazil,Rio de Janeiro,Apple Fifth Avenue,1,733.57,733.57,Bank Transfer,Premium
+34,2024-01-06,iPhone 14,Smartphone,South America,Brazil,São Paulo,Apple Orchard Road,1,702.69,702.69,Apple Pay,Education
+35,2024-04-25,AirPods Max,Accessories,Middle East,UAE,Abu Dhabi,Apple Dubai Mall,1,548.19,548.19,Debit Card,Consumer
+36,2024-08-10,MacBook Air,Computers,Europe,France,Lyon,Apple Orchard Road,1,1117.81,1117.81,Debit Card,Enterprise
+37,2024-06-03,Apple Watch Series 9,Wearables,Europe,Germany,Berlin,Apple Orchard Road,2,407.08,814.16,Bank Transfer,Premium
+38,2024-09-03,Apple Watch Series 9,Wearables,Asia,Japan,Tokyo,Apple Orchard Road,4,399.45,1597.81,Credit Card,Education
+39,2024-06-21,"MacBook Pro 16""",Computers,North America,Canada,Vancouver,Apple Pacific Centre,3,2380.95,7142.85,Debit Card,Premium
+40,2024-10-14,iPad Pro,Tablets,Asia,China,Shanghai,Apple Champs-Élysées,1,1047.4,1047.4,PayPal,Premium
+41,2024-11-21,AirPods Max,Accessories,Asia,Australia,Sydney,Apple Fifth Avenue,3,536.46,1609.37,PayPal,Consumer
+42,2024-04-12,"MacBook Pro 16""",Computers,Middle East,Saudi Arabia,Jeddah,Apple Michigan Avenue,2,2555.5,5111.0,Bank Transfer,Premium
+43,2024-05-03,Apple Watch Series 9,Wearables,Asia,China,Hong Kong,Apple Michigan Avenue,1,382.18,382.18,Bank Transfer,Premium
+44,2024-04-26,AirPods 3rd Gen,Accessories,North America,Canada,Toronto,Apple Fifth Avenue,1,172.85,172.85,Debit Card,Education
+45,2024-05-05,MacBook Air,Computers,North America,Canada,Toronto,Apple Ginza,2,1100.83,2201.67,Bank Transfer,Premium
+46,2024-12-14,iPad Pro,Tablets,Asia,Australia,Melbourne,Apple Michigan Avenue,2,1045.63,2091.26,PayPal,Consumer
+47,2024-02-16,iPhone 15 Pro,Smartphone,South America,Brazil,Rio de Janeiro,Apple IFC Mall,2,1029.66,2059.32,PayPal,Consumer
+48,2024-09-10,AirPods 3rd Gen,Accessories,Middle East,UAE,Abu Dhabi,Apple IFC Mall,4,185.92,743.69,PayPal,Enterprise
+49,2024-09-06,iPhone 14,Smartphone,Europe,UK,London,Apple Regent Street,2,730.03,1460.06,Debit Card,Consumer
+50,2024-06-08,Apple Watch Ultra,Wearables,South America,Mexico,Guadalajara,Apple Union Square,1,769.32,769.32,Bank Transfer,Enterprise
+51,2024-04-10,Apple Watch SE,Wearables,Asia,China,Beijing,Apple Orchard Road,4,241.43,965.7,Bank Transfer,Education
+52,2024-04-04,AirPods 3rd Gen,Accessories,Europe,Spain,Valencia,Apple Union Square,2,171.32,342.65,Bank Transfer,Premium
+53,2024-03-30,AirPods 3rd Gen,Accessories,Europe,France,Paris,Apple Dubai Mall,1,182.52,182.52,Bank Transfer,Enterprise
+54,2024-08-04,"MacBook Pro 14""",Computers,Middle East,UAE,Abu Dhabi,Apple IFC Mall,1,2012.7,2012.7,Apple Pay,Consumer
+55,2024-04-08,"MacBook Pro 16""",Computers,Europe,UK,Edinburgh,Apple Orchard Road,3,2514.46,7543.38,PayPal,Consumer
+56,2024-07-01,AirPods Pro,Accessories,North America,USA,New York,Apple Fifth Avenue,1,248.91,248.91,Credit Card,Premium
+57,2024-07-05,iPhone 14,Smartphone,North America,Canada,Toronto,Apple Sydney,3,688.86,2066.57,PayPal,Premium
+58,2024-08-10,"MacBook Pro 16""",Computers,Asia,Japan,Kyoto,Apple Ginza,1,2524.6,2524.6,PayPal,Enterprise
+59,2024-02-22,iPad Pro,Tablets,North America,USA,Miami,Apple Ginza,1,1050.38,1050.38,Debit Card,Consumer
+60,2024-06-11,iPad Pro,Tablets,Middle East,UAE,Dubai,Apple Union Square,5,1119.66,5598.32,Debit Card,Education
+61,2024-09-09,MacBook Air,Computers,Middle East,Saudi Arabia,Jeddah,Apple Sydney,3,1121.67,3365.0,Bank Transfer,Consumer
+62,2024-06-13,MacBook Air,Computers,Asia,Singapore,Singapore,Apple Fifth Avenue,3,1070.06,3210.19,Credit Card,Consumer
+63,2024-05-11,"MacBook Pro 16""",Computers,South America,Brazil,São Paulo,Apple Pacific Centre,1,2480.06,2480.06,Debit Card,Enterprise
+64,2024-02-08,AirPods 3rd Gen,Accessories,Asia,Singapore,Singapore,Apple Union Square,1,171.06,171.06,PayPal,Education
+65,2024-11-12,AirPods Max,Accessories,North America,USA,New York,Apple Michigan Avenue,1,574.37,574.37,PayPal,Consumer
+66,2024-11-07,iPhone 15 Pro,Smartphone,Middle East,Saudi Arabia,Jeddah,Apple Pacific Centre,5,1004.59,5022.97,Bank Transfer,Education
+67,2024-07-31,Apple Watch Ultra,Wearables,South America,Brazil,Rio de Janeiro,Apple Michigan Avenue,2,765.08,1530.15,Credit Card,Consumer
+68,2024-01-14,AirPods Max,Accessories,North America,USA,Chicago,Apple Dubai Mall,1,536.97,536.97,PayPal,Education
+69,2024-06-04,"MacBook Pro 14""",Computers,Europe,Italy,Rome,Apple Orchard Road,1,2015.72,2015.72,PayPal,Consumer
+70,2024-02-10,"MacBook Pro 16""",Computers,Asia,China,Beijing,Apple Fifth Avenue,1,2524.69,2524.69,Bank Transfer,Consumer
+71,2024-02-15,iPhone 14,Smartphone,Middle East,Saudi Arabia,Jeddah,Apple Michigan Avenue,2,706.93,1413.86,Debit Card,Premium
+72,2024-11-07,AirPods 3rd Gen,Accessories,Europe,France,Paris,Apple Ginza,1,176.79,176.79,Credit Card,Premium
+73,2024-08-11,AirPods Max,Accessories,North America,USA,Miami,Apple IFC Mall,1,574.8,574.8,Apple Pay,Consumer
+74,2024-04-07,iPad Mini,Tablets,Asia,China,Beijing,Apple Dubai Mall,3,514.61,1543.84,Bank Transfer,Premium
+75,2024-09-15,"MacBook Pro 14""",Computers,Middle East,UAE,Dubai,Apple IFC Mall,3,1948.49,5845.48,Credit Card,Premium
+76,2024-01-01,iPhone 14,Smartphone,Middle East,UAE,Abu Dhabi,Apple Fifth Avenue,2,707.26,1414.51,PayPal,Enterprise
+77,2024-03-12,iPad Pro,Tablets,Europe,Germany,Munich,Apple Champs-Élysées,2,1101.22,2202.43,PayPal,Consumer
+78,2024-02-23,Apple Watch SE,Wearables,Middle East,Saudi Arabia,Jeddah,Apple Eaton Centre,1,239.89,239.89,Bank Transfer,Consumer
+79,2024-03-06,Apple Watch Ultra,Wearables,Asia,Australia,Melbourne,Apple Champs-Élysées,2,809.92,1619.84,Apple Pay,Enterprise
+80,2024-11-03,iPad Mini,Tablets,North America,Canada,Montreal,Apple Pacific Centre,1,500.18,500.18,Credit Card,Consumer
+81,2024-10-11,"MacBook Pro 16""",Computers,Europe,UK,Manchester,Apple Fifth Avenue,1,2488.79,2488.79,Debit Card,Premium
+82,2024-02-22,iPhone 15,Smartphone,Middle East,Saudi Arabia,Riyadh,Apple Eaton Centre,1,765.11,765.11,Credit Card,Enterprise
+83,2024-07-01,AirPods Max,Accessories,Asia,Australia,Melbourne,Apple Regent Street,1,570.78,570.78,Apple Pay,Enterprise
+84,2024-04-02,iPhone 15,Smartphone,Middle East,Saudi Arabia,Riyadh,Apple Michigan Avenue,3,786.62,2359.87,Debit Card,Consumer
+85,2024-01-22,"MacBook Pro 14""",Computers,North America,USA,New York,Apple Pacific Centre,1,1971.87,1971.87,Debit Card,Consumer
+86,2024-03-13,Apple Watch Series 9,Wearables,North America,USA,New York,Apple Champs-Élysées,1,413.91,413.91,Bank Transfer,Consumer
+87,2024-01-26,"MacBook Pro 16""",Computers,North America,Canada,Toronto,Apple Michigan Avenue,1,2426.37,2426.37,Debit Card,Education
+88,2024-03-18,iPad Air,Tablets,Europe,Spain,Barcelona,Apple Eaton Centre,1,611.78,611.78,Apple Pay,Enterprise
+89,2024-09-30,Apple Watch Series 9,Wearables,Asia,South Korea,Seoul,Apple Sydney,2,386.32,772.65,Credit Card,Consumer
+90,2024-08-18,MacBook Air,Computers,Europe,Italy,Milan,Apple Fifth Avenue,1,1096.14,1096.14,Debit Card,Enterprise
+91,2024-08-20,AirPods Pro,Accessories,Europe,Italy,Florence,Apple Champs-Élysées,1,255.11,255.11,Credit Card,Education
+92,2024-03-23,Apple Watch Series 9,Wearables,North America,USA,San Francisco,Apple IFC Mall,2,388.8,777.6,Apple Pay,Consumer
+93,2024-08-16,iPad Mini,Tablets,North America,USA,Miami,Apple Champs-Élysées,1,498.39,498.39,Apple Pay,Premium
+94,2024-11-13,AirPods 3rd Gen,Accessories,North America,USA,Chicago,Apple Michigan Avenue,1,182.53,182.53,Debit Card,Education
+95,2024-08-07,Apple Watch Ultra,Wearables,South America,Brazil,Rio de Janeiro,Apple Champs-Élysées,1,772.7,772.7,Apple Pay,Premium
+96,2024-07-12,AirPods Max,Accessories,Asia,Japan,Kyoto,Apple Pacific Centre,1,574.69,574.69,PayPal,Enterprise
+97,2024-07-30,iPhone 15 Pro,Smartphone,South America,Brazil,Rio de Janeiro,Apple Fifth Avenue,2,977.88,1955.77,Bank Transfer,Premium
+98,2024-05-18,AirPods Max,Accessories,South America,Brazil,São Paulo,Apple Michigan Avenue,1,540.03,540.03,Debit Card,Consumer
+99,2024-05-17,Apple Watch SE,Wearables,Europe,Spain,Barcelona,Apple Regent Street,1,253.52,253.52,Credit Card,Consumer
+100,2024-02-07,iPad Pro,Tablets,Asia,China,Beijing,Apple Pacific Centre,5,1057.71,5288.55,Apple Pay,Consumer
+101,2024-03-16,iPhone 14,Smartphone,Asia,China,Shanghai,Apple Pacific Centre,3,673.82,2021.46,Credit Card,Consumer
+102,2024-09-26,Apple Watch SE,Wearables,Asia,Singapore,Singapore,Apple Ginza,3,253.11,759.34,Debit Card,Premium
+103,2024-05-11,iPad Mini,Tablets,Middle East,Saudi Arabia,Riyadh,Apple Union Square,3,495.96,1487.89,Apple Pay,Consumer
+104,2024-12-18,iPad Pro,Tablets,North America,USA,New York,Apple Fifth Avenue,1,1102.5,1102.5,Bank Transfer,Education
+105,2024-04-13,iPhone 14,Smartphone,Asia,South Korea,Seoul,Apple Michigan Avenue,1,673.79,673.79,Bank Transfer,Consumer
+106,2024-08-18,Apple Watch Ultra,Wearables,South America,Brazil,Rio de Janeiro,Apple Sydney,1,778.9,778.9,Credit Card,Premium
+107,2024-07-14,MacBook Air,Computers,Europe,Germany,Berlin,Apple Eaton Centre,2,1055.36,2110.72,Bank Transfer,Enterprise
+108,2024-10-29,"MacBook Pro 16""",Computers,Middle East,Saudi Arabia,Jeddah,Apple Orchard Road,1,2508.96,2508.96,Bank Transfer,Enterprise
+109,2024-11-19,Apple Watch SE,Wearables,Middle East,Saudi Arabia,Riyadh,Apple Michigan Avenue,2,250.06,500.13,Apple Pay,Enterprise
+110,2024-03-09,"MacBook Pro 16""",Computers,Asia,Japan,Osaka,Apple Champs-Élysées,1,2489.51,2489.51,Apple Pay,Education
+111,2024-08-05,AirPods Pro,Accessories,Europe,UK,London,Apple Orchard Road,3,259.76,779.28,PayPal,Education
+112,2024-11-19,"MacBook Pro 14""",Computers,Middle East,Saudi Arabia,Riyadh,Apple IFC Mall,2,1973.9,3947.8,Credit Card,Premium
+113,2024-02-20,AirPods Pro,Accessories,North America,Canada,Montreal,Apple Dubai Mall,1,242.42,242.42,Debit Card,Premium
+114,2024-06-30,iPad Pro,Tablets,North America,USA,Chicago,Apple Orchard Road,2,1085.74,2171.47,Bank Transfer,Consumer
+115,2024-07-20,"MacBook Pro 16""",Computers,North America,USA,Los Angeles,Apple Sydney,1,2477.63,2477.63,Debit Card,Enterprise
+116,2024-10-20,iPhone 15,Smartphone,Europe,France,Lyon,Apple Eaton Centre,1,777.0,777.0,PayPal,Enterprise
+117,2024-06-27,MacBook Air,Computers,North America,USA,San Francisco,Apple Champs-Élysées,1,1078.28,1078.28,Bank Transfer,Enterprise
+118,2024-05-29,Apple Watch Series 9,Wearables,South America,Mexico,Mexico City,Apple Fifth Avenue,1,417.4,417.4,Credit Card,Education
+119,2024-04-27,MacBook Air,Computers,South America,Brazil,São Paulo,Apple Orchard Road,1,1109.48,1109.48,Bank Transfer,Premium
+120,2024-08-02,iPhone 14,Smartphone,Asia,South Korea,Busan,Apple Fifth Avenue,1,697.05,697.05,Apple Pay,Premium
+121,2024-09-13,AirPods 3rd Gen,Accessories,Asia,Japan,Osaka,Apple Champs-Élysées,1,177.22,177.22,Apple Pay,Enterprise
+122,2024-05-11,iPhone 15 Pro,Smartphone,Middle East,UAE,Dubai,Apple Michigan Avenue,1,976.1,976.1,Debit Card,Education
+123,2024-03-27,iPad Pro,Tablets,South America,Mexico,Guadalajara,Apple Dubai Mall,2,1047.03,2094.06,Apple Pay,Education
+124,2024-09-11,AirPods Pro,Accessories,North America,USA,Miami,Apple Michigan Avenue,3,250.41,751.24,Debit Card,Enterprise
+125,2024-04-05,iPad Air,Tablets,Asia,Australia,Melbourne,Apple Ginza,1,593.39,593.39,Debit Card,Enterprise
+126,2024-11-25,iPad Pro,Tablets,North America,USA,Miami,Apple Michigan Avenue,1,1140.37,1140.37,Bank Transfer,Education
+127,2024-03-22,iPhone 15,Smartphone,North America,USA,Miami,Apple Regent Street,1,824.98,824.98,Apple Pay,Enterprise
+128,2024-04-28,Apple Watch SE,Wearables,South America,Brazil,São Paulo,Apple Champs-Élysées,2,245.58,491.17,Bank Transfer,Education
+129,2024-12-20,"MacBook Pro 16""",Computers,Europe,Italy,Milan,Apple IFC Mall,1,2620.29,2620.29,Credit Card,Premium
+130,2024-04-24,iPhone 15 Pro,Smartphone,North America,Canada,Vancouver,Apple Sydney,1,962.97,962.97,Apple Pay,Premium
+131,2024-01-04,Apple Watch Series 9,Wearables,Europe,Spain,Madrid,Apple Union Square,1,379.78,379.78,Debit Card,Education
+132,2024-12-06,Apple Watch Series 9,Wearables,South America,Brazil,Rio de Janeiro,Apple Union Square,1,405.04,405.04,Debit Card,Education
+133,2024-03-27,"MacBook Pro 14""",Computers,Europe,Spain,Valencia,Apple Sydney,1,2045.41,2045.41,Debit Card,Education
+134,2024-08-24,iPad Mini,Tablets,Middle East,UAE,Abu Dhabi,Apple Fifth Avenue,1,493.17,493.17,Debit Card,Premium
+135,2024-03-04,iPhone 15,Smartphone,South America,Mexico,Mexico City,Apple Fifth Avenue,1,807.24,807.24,Debit Card,Consumer
+136,2024-05-28,Apple Watch Ultra,Wearables,Asia,Australia,Sydney,Apple Eaton Centre,1,804.31,804.31,Debit Card,Enterprise
+137,2024-04-20,iPad Air,Tablets,Middle East,Saudi Arabia,Riyadh,Apple IFC Mall,1,584.76,584.76,Apple Pay,Education
+138,2024-12-02,AirPods 3rd Gen,Accessories,Asia,Singapore,Singapore,Apple Eaton Centre,1,183.85,183.85,Bank Transfer,Consumer
+139,2024-07-19,iPad Air,Tablets,North America,USA,New York,Apple Eaton Centre,1,596.58,596.58,Apple Pay,Enterprise
+140,2024-08-16,Apple Watch SE,Wearables,South America,Brazil,Rio de Janeiro,Apple Champs-Élysées,1,245.54,245.54,PayPal,Enterprise
+141,2024-10-31,AirPods Pro,Accessories,North America,Canada,Toronto,Apple Dubai Mall,1,238.71,238.71,Apple Pay,Education
+142,2024-05-28,iPhone 15 Pro,Smartphone,Middle East,Saudi Arabia,Jeddah,Apple Champs-Élysées,5,1039.3,5196.48,PayPal,Enterprise
+143,2024-02-28,Apple Watch Series 9,Wearables,North America,USA,Los Angeles,Apple IFC Mall,1,418.92,418.92,Debit Card,Consumer
+144,2024-03-26,Apple Watch Series 9,Wearables,Middle East,UAE,Dubai,Apple Michigan Avenue,4,417.8,1671.18,Bank Transfer,Premium
+145,2024-08-10,AirPods 3rd Gen,Accessories,South America,Brazil,São Paulo,Apple Union Square,1,181.59,181.59,Apple Pay,Education
+146,2024-07-06,AirPods Pro,Accessories,Europe,France,Paris,Apple Eaton Centre,1,254.6,254.6,PayPal,Enterprise
+147,2024-01-15,iPad Air,Tablets,North America,Canada,Toronto,Apple Champs-Élysées,1,606.54,606.54,Bank Transfer,Premium
+148,2024-04-17,AirPods 3rd Gen,Accessories,Europe,France,Lyon,Apple Union Square,1,185.71,185.71,Bank Transfer,Premium
+149,2024-04-05,iPhone 14,Smartphone,Asia,Australia,Sydney,Apple Fifth Avenue,1,697.59,697.59,Credit Card,Education
+150,2024-08-23,AirPods Max,Accessories,North America,Canada,Vancouver,Apple Sydney,1,550.24,550.24,Credit Card,Premium
+151,2024-06-25,iPhone 14,Smartphone,Middle East,Saudi Arabia,Jeddah,Apple Union Square,1,680.38,680.38,Credit Card,Education
+152,2024-07-11,"MacBook Pro 14""",Computers,North America,USA,New York,Apple Sydney,2,1942.68,3885.36,Debit Card,Consumer
+153,2024-03-01,"MacBook Pro 14""",Computers,Asia,Australia,Melbourne,Apple Dubai Mall,3,2087.9,6263.71,Apple Pay,Premium
+154,2024-11-28,iPhone 15,Smartphone,North America,USA,San Francisco,Apple Regent Street,1,834.37,834.37,Bank Transfer,Enterprise
+155,2024-11-25,Apple Watch Ultra,Wearables,Europe,UK,Manchester,Apple Sydney,1,821.34,821.34,Bank Transfer,Consumer
+156,2024-02-23,AirPods Max,Accessories,North America,USA,Chicago,Apple Regent Street,5,531.1,2655.48,Debit Card,Enterprise
+157,2024-06-26,iPhone 15,Smartphone,North America,Canada,Montreal,Apple Michigan Avenue,1,776.93,776.93,Credit Card,Consumer
+158,2024-03-08,AirPods 3rd Gen,Accessories,Middle East,Saudi Arabia,Riyadh,Apple Sydney,1,174.94,174.94,Bank Transfer,Consumer
+159,2024-07-13,iPad Mini,Tablets,Europe,Italy,Rome,Apple Sydney,1,520.54,520.54,Apple Pay,Enterprise
+160,2024-08-13,iPad Air,Tablets,South America,Brazil,Rio de Janeiro,Apple Orchard Road,2,571.97,1143.94,Debit Card,Premium
+161,2024-02-06,Apple Watch SE,Wearables,Middle East,Saudi Arabia,Riyadh,Apple Fifth Avenue,1,258.53,258.53,Bank Transfer,Enterprise
+162,2024-07-04,iPhone 14,Smartphone,Europe,France,Paris,Apple Fifth Avenue,3,719.79,2159.37,PayPal,Consumer
+163,2024-02-28,Apple Watch Ultra,Wearables,North America,USA,Chicago,Apple Sydney,4,767.51,3070.02,Apple Pay,Premium
+164,2024-07-06,iPad Pro,Tablets,Middle East,UAE,Dubai,Apple IFC Mall,1,1140.66,1140.66,Debit Card,Premium
+165,2024-06-08,Apple Watch Ultra,Wearables,Middle East,Saudi Arabia,Riyadh,Apple Union Square,3,825.54,2476.61,Bank Transfer,Education
+166,2024-10-21,iPhone 15,Smartphone,Middle East,Saudi Arabia,Riyadh,Apple Fifth Avenue,1,768.31,768.31,Debit Card,Education
+167,2024-12-09,AirPods Pro,Accessories,Asia,South Korea,Busan,Apple Dubai Mall,1,260.53,260.53,PayPal,Education
+168,2024-11-30,AirPods 3rd Gen,Accessories,Middle East,UAE,Abu Dhabi,Apple Regent Street,1,183.85,183.85,PayPal,Enterprise
+169,2024-07-10,iPhone 15 Pro,Smartphone,South America,Mexico,Mexico City,Apple IFC Mall,1,954.84,954.84,Apple Pay,Premium
+170,2024-11-01,AirPods 3rd Gen,Accessories,Middle East,Saudi Arabia,Jeddah,Apple Eaton Centre,1,183.62,183.62,Bank Transfer,Enterprise
+171,2024-02-02,MacBook Air,Computers,Asia,South Korea,Busan,Apple Dubai Mall,1,1074.12,1074.12,Bank Transfer,Education
+172,2024-04-08,AirPods Pro,Accessories,North America,USA,Miami,Apple Eaton Centre,1,238.6,238.6,PayPal,Premium
+173,2024-01-27,iPhone 14,Smartphone,North America,Canada,Toronto,Apple Ginza,4,723.98,2895.92,PayPal,Premium
+174,2024-05-26,iPad Mini,Tablets,Middle East,UAE,Dubai,Apple Fifth Avenue,1,510.2,510.2,Debit Card,Consumer
+175,2024-06-11,iPhone 15 Pro,Smartphone,North America,Canada,Vancouver,Apple Pacific Centre,1,1045.77,1045.77,Credit Card,Consumer
+176,2024-04-02,"MacBook Pro 14""",Computers,Asia,Japan,Kyoto,Apple Michigan Avenue,2,1957.85,3915.71,PayPal,Premium
+177,2024-02-15,AirPods Max,Accessories,North America,Canada,Vancouver,Apple Dubai Mall,1,559.19,559.19,PayPal,Consumer
+178,2024-06-14,iPad Mini,Tablets,South America,Brazil,Rio de Janeiro,Apple Champs-Élysées,1,503.5,503.5,Apple Pay,Education
+179,2024-07-23,iPhone 15 Pro,Smartphone,Middle East,Saudi Arabia,Jeddah,Apple Union Square,1,1008.99,1008.99,Apple Pay,Consumer
+180,2024-08-04,iPhone 15 Pro,Smartphone,South America,Mexico,Mexico City,Apple Orchard Road,2,1023.89,2047.78,Credit Card,Consumer
+181,2024-03-16,iPad Mini,Tablets,South America,Mexico,Mexico City,Apple IFC Mall,2,521.02,1042.04,Credit Card,Premium
+182,2024-08-12,iPhone 15 Pro,Smartphone,North America,USA,New York,Apple Regent Street,1,981.23,981.23,Debit Card,Premium
+183,2024-05-01,iPhone 15,Smartphone,Europe,Germany,Hamburg,Apple Pacific Centre,1,809.9,809.9,Apple Pay,Enterprise
+184,2024-01-09,MacBook Air,Computers,North America,USA,New York,Apple Union Square,4,1148.16,4592.66,PayPal,Premium
+185,2024-03-24,AirPods 3rd Gen,Accessories,Asia,South Korea,Busan,Apple Regent Street,1,184.08,184.08,Apple Pay,Enterprise
+186,2024-10-23,Apple Watch SE,Wearables,Europe,France,Lyon,Apple Champs-Élysées,1,252.74,252.74,Credit Card,Consumer
+187,2024-08-30,Apple Watch Series 9,Wearables,Asia,Australia,Sydney,Apple Orchard Road,3,396.35,1189.06,Apple Pay,Education
+188,2024-03-22,MacBook Air,Computers,Europe,France,Lyon,Apple Ginza,5,1151.18,5755.9,Apple Pay,Education
+189,2024-07-20,iPhone 14,Smartphone,Asia,Singapore,Singapore,Apple Champs-Élysées,1,682.06,682.06,PayPal,Consumer
+190,2024-12-15,"MacBook Pro 14""",Computers,Europe,Spain,Madrid,Apple Regent Street,2,2052.52,4105.04,PayPal,Education
+191,2024-02-19,iPhone 15 Pro,Smartphone,Asia,China,Shanghai,Apple Ginza,1,1009.61,1009.61,Debit Card,Education
+192,2024-09-18,iPad Pro,Tablets,Europe,France,Marseille,Apple IFC Mall,4,1067.2,4268.81,Bank Transfer,Premium
+193,2024-02-09,"MacBook Pro 14""",Computers,North America,USA,Los Angeles,Apple Orchard Road,1,2019.36,2019.36,Debit Card,Education
+194,2024-01-14,AirPods 3rd Gen,Accessories,Europe,Spain,Madrid,Apple Champs-Élysées,1,174.48,174.48,PayPal,Consumer
+195,2024-04-20,AirPods 3rd Gen,Accessories,North America,Canada,Vancouver,Apple Dubai Mall,1,177.05,177.05,Credit Card,Education
+196,2024-03-06,iPhone 14,Smartphone,Middle East,UAE,Dubai,Apple Fifth Avenue,2,673.2,1346.4,Bank Transfer,Enterprise
+197,2024-10-29,AirPods Max,Accessories,Asia,Japan,Kyoto,Apple Champs-Élysées,1,550.09,550.09,Debit Card,Education
+198,2024-12-15,iPad Mini,Tablets,North America,USA,San Francisco,Apple Orchard Road,2,509.32,1018.64,PayPal,Education
+199,2024-04-30,Apple Watch Ultra,Wearables,Middle East,UAE,Dubai,Apple Pacific Centre,1,826.5,826.5,PayPal,Education
+200,2024-06-04,AirPods Max,Accessories,South America,Brazil,São Paulo,Apple Regent Street,1,524.68,524.68,Bank Transfer,Education
+201,2024-10-08,AirPods Pro,Accessories,North America,USA,Chicago,Apple Champs-Élysées,1,238.76,238.76,Credit Card,Consumer
+202,2024-06-27,AirPods 3rd Gen,Accessories,South America,Mexico,Guadalajara,Apple Ginza,1,182.33,182.33,Debit Card,Consumer
+203,2024-11-01,AirPods Pro,Accessories,North America,USA,Chicago,Apple Union Square,1,249.8,249.8,Bank Transfer,Education
+204,2024-12-01,iPhone 15,Smartphone,Europe,Italy,Florence,Apple Orchard Road,5,766.55,3832.76,Bank Transfer,Education
+205,2024-12-23,"MacBook Pro 14""",Computers,Europe,UK,Edinburgh,Apple Dubai Mall,4,2035.63,8142.53,Debit Card,Premium
+206,2024-05-24,Apple Watch Series 9,Wearables,North America,Canada,Montreal,Apple Orchard Road,2,415.71,831.41,Credit Card,Enterprise
+207,2024-10-13,AirPods 3rd Gen,Accessories,Middle East,Saudi Arabia,Riyadh,Apple Sydney,1,181.83,181.83,Debit Card,Education
+208,2024-03-03,iPad Mini,Tablets,North America,USA,New York,Apple Sydney,1,488.46,488.46,Apple Pay,Education
+209,2024-04-07,AirPods Pro,Accessories,South America,Mexico,Mexico City,Apple Champs-Élysées,4,258.41,1033.64,Apple Pay,Consumer
+210,2024-11-26,iPhone 15 Pro,Smartphone,North America,USA,New York,Apple Pacific Centre,2,1005.34,2010.68,Apple Pay,Education
+211,2024-04-02,iPad Mini,Tablets,North America,USA,New York,Apple Michigan Avenue,1,477.7,477.7,Apple Pay,Education
+212,2024-04-19,AirPods 3rd Gen,Accessories,Europe,Germany,Munich,Apple Sydney,1,185.5,185.5,Debit Card,Premium
+213,2024-04-26,AirPods Pro,Accessories,Europe,UK,London,Apple Union Square,1,242.68,242.68,PayPal,Enterprise
+214,2024-02-12,iPad Pro,Tablets,Europe,Italy,Florence,Apple Eaton Centre,1,1065.57,1065.57,Bank Transfer,Education
+215,2024-10-07,"MacBook Pro 16""",Computers,Asia,South Korea,Seoul,Apple Regent Street,4,2461.92,9847.68,Debit Card,Premium
+216,2024-02-21,AirPods 3rd Gen,Accessories,Asia,Singapore,Singapore,Apple Pacific Centre,1,175.62,175.62,PayPal,Premium
+217,2024-05-25,iPhone 15,Smartphone,North America,USA,San Francisco,Apple IFC Mall,1,773.52,773.52,PayPal,Premium
+218,2024-02-08,AirPods Pro,Accessories,North America,Canada,Toronto,Apple IFC Mall,4,247.12,988.48,Credit Card,Education
+219,2024-06-21,Apple Watch Series 9,Wearables,Asia,Singapore,Singapore,Apple Dubai Mall,2,399.61,799.21,PayPal,Consumer
+220,2024-01-26,iPad Mini,Tablets,Europe,Germany,Berlin,Apple IFC Mall,4,491.69,1966.74,Debit Card,Enterprise
+221,2024-10-19,"MacBook Pro 16""",Computers,Europe,France,Marseille,Apple IFC Mall,3,2565.64,7696.91,Debit Card,Consumer
+222,2024-08-29,"MacBook Pro 14""",Computers,North America,USA,San Francisco,Apple Union Square,1,2006.07,2006.07,Bank Transfer,Enterprise
+223,2024-06-08,Apple Watch Ultra,Wearables,Europe,UK,Manchester,Apple Sydney,1,837.97,837.97,Apple Pay,Enterprise
+224,2024-03-25,iPhone 15,Smartphone,Asia,Japan,Osaka,Apple Dubai Mall,2,760.31,1520.63,PayPal,Premium
+225,2024-01-19,"MacBook Pro 16""",Computers,Europe,Germany,Hamburg,Apple Regent Street,1,2597.51,2597.51,Apple Pay,Consumer
+226,2024-05-15,iPhone 15 Pro,Smartphone,Asia,China,Hong Kong,Apple Regent Street,1,1032.15,1032.15,PayPal,Consumer
+227,2024-01-27,"MacBook Pro 14""",Computers,Europe,France,Lyon,Apple Pacific Centre,1,1965.62,1965.62,Debit Card,Enterprise
+228,2024-06-20,iPhone 15,Smartphone,North America,USA,Los Angeles,Apple Dubai Mall,1,763.86,763.86,PayPal,Premium
+229,2024-02-05,"MacBook Pro 14""",Computers,Middle East,UAE,Dubai,Apple Sydney,1,1980.9,1980.9,Credit Card,Enterprise
+230,2024-01-12,iPhone 15 Pro,Smartphone,South America,Mexico,Guadalajara,Apple Michigan Avenue,4,972.49,3889.96,PayPal,Enterprise
+231,2024-04-13,MacBook Air,Computers,Middle East,Saudi Arabia,Jeddah,Apple Orchard Road,1,1136.59,1136.59,Bank Transfer,Education
+232,2024-08-18,iPhone 15 Pro,Smartphone,Middle East,Saudi Arabia,Jeddah,Apple Champs-Élysées,1,955.35,955.35,PayPal,Consumer
+233,2024-05-30,iPhone 15,Smartphone,Middle East,Saudi Arabia,Riyadh,Apple Ginza,1,778.15,778.15,Credit Card,Enterprise
+234,2024-11-18,"MacBook Pro 16""",Computers,Europe,Italy,Rome,Apple Dubai Mall,1,2570.54,2570.54,PayPal,Consumer
+235,2024-08-31,Apple Watch Series 9,Wearables,South America,Brazil,São Paulo,Apple IFC Mall,1,404.11,404.11,Debit Card,Premium
+236,2024-05-13,iPhone 14,Smartphone,South America,Mexico,Mexico City,Apple Ginza,1,674.8,674.8,Apple Pay,Premium
+237,2024-07-24,"MacBook Pro 16""",Computers,Europe,Germany,Berlin,Apple Union Square,1,2589.47,2589.47,PayPal,Enterprise
+238,2024-09-26,iPhone 15 Pro,Smartphone,Middle East,Saudi Arabia,Riyadh,Apple Michigan Avenue,1,963.67,963.67,Bank Transfer,Premium
+239,2024-01-25,AirPods Max,Accessories,South America,Brazil,Rio de Janeiro,Apple Pacific Centre,5,545.29,2726.47,Bank Transfer,Enterprise
+240,2024-11-29,"MacBook Pro 16""",Computers,Europe,Spain,Valencia,Apple Champs-Élysées,1,2378.47,2378.47,Debit Card,Education
+241,2024-05-30,iPhone 14,Smartphone,Asia,Singapore,Singapore,Apple Michigan Avenue,1,678.85,678.85,Apple Pay,Premium
+242,2024-09-09,AirPods Max,Accessories,North America,USA,Chicago,Apple Sydney,1,528.21,528.21,Apple Pay,Enterprise
+243,2024-03-20,Apple Watch SE,Wearables,North America,Canada,Montreal,Apple Orchard Road,3,251.87,755.61,PayPal,Consumer
+244,2024-11-03,"MacBook Pro 16""",Computers,South America,Mexico,Mexico City,Apple Union Square,1,2595.61,2595.61,Bank Transfer,Enterprise
+245,2024-01-07,Apple Watch Ultra,Wearables,South America,Mexico,Guadalajara,Apple Dubai Mall,2,820.52,1641.03,Debit Card,Premium
+246,2024-08-06,"MacBook Pro 14""",Computers,Middle East,Saudi Arabia,Riyadh,Apple IFC Mall,1,2022.78,2022.78,Bank Transfer,Consumer
+247,2024-08-29,AirPods Pro,Accessories,Middle East,UAE,Abu Dhabi,Apple Ginza,5,248.7,1243.49,Apple Pay,Consumer
+248,2024-07-06,Apple Watch Ultra,Wearables,Middle East,Saudi Arabia,Jeddah,Apple Dubai Mall,1,769.21,769.21,Debit Card,Education
+249,2024-04-21,Apple Watch SE,Wearables,Europe,France,Paris,Apple Regent Street,3,246.32,738.96,Debit Card,Consumer
+250,2024-04-22,iPad Mini,Tablets,North America,Canada,Toronto,Apple Sydney,2,495.89,991.77,Bank Transfer,Consumer
+251,2024-01-10,iPhone 15,Smartphone,Europe,Italy,Milan,Apple Pacific Centre,2,811.73,1623.46,Apple Pay,Premium
+252,2024-07-18,iPhone 15 Pro,Smartphone,North America,Canada,Montreal,Apple Orchard Road,3,959.61,2878.83,PayPal,Consumer
+253,2024-03-27,"MacBook Pro 14""",Computers,Middle East,Saudi Arabia,Riyadh,Apple Dubai Mall,2,1913.46,3826.92,Apple Pay,Education
+254,2024-01-17,"MacBook Pro 14""",Computers,South America,Brazil,Rio de Janeiro,Apple IFC Mall,1,2097.27,2097.27,PayPal,Enterprise
+255,2024-07-29,iPad Pro,Tablets,Asia,Australia,Sydney,Apple Eaton Centre,1,1104.45,1104.45,Debit Card,Premium
+256,2024-04-20,Apple Watch SE,Wearables,North America,USA,New York,Apple Sydney,1,241.67,241.67,Credit Card,Education
+257,2024-11-19,AirPods 3rd Gen,Accessories,North America,USA,New York,Apple IFC Mall,1,186.09,186.09,Debit Card,Consumer
+258,2024-06-12,Apple Watch SE,Wearables,Asia,Japan,Osaka,Apple Ginza,4,249.52,998.07,PayPal,Premium
+259,2024-01-11,Apple Watch Series 9,Wearables,North America,Canada,Vancouver,Apple Dubai Mall,1,394.05,394.05,PayPal,Premium
+260,2024-04-23,MacBook Air,Computers,South America,Mexico,Guadalajara,Apple Ginza,2,1098.57,2197.13,Credit Card,Education
+261,2024-05-01,AirPods 3rd Gen,Accessories,North America,Canada,Toronto,Apple Union Square,2,174.01,348.01,PayPal,Education
+262,2024-07-21,MacBook Air,Computers,Asia,China,Shanghai,Apple Pacific Centre,1,1062.16,1062.16,Bank Transfer,Consumer
+263,2024-10-09,iPhone 15,Smartphone,Asia,Australia,Sydney,Apple Champs-Élysées,1,806.22,806.22,Apple Pay,Enterprise
+264,2024-04-27,iPhone 14,Smartphone,Middle East,Saudi Arabia,Riyadh,Apple Pacific Centre,2,717.25,1434.5,Debit Card,Premium
+265,2024-05-23,iPad Air,Tablets,North America,Canada,Toronto,Apple Michigan Avenue,5,574.99,2874.95,Debit Card,Premium
+266,2024-01-10,"MacBook Pro 14""",Computers,Asia,South Korea,Busan,Apple Sydney,1,2006.74,2006.74,PayPal,Premium
+267,2024-08-21,Apple Watch Series 9,Wearables,Europe,Italy,Milan,Apple Sydney,5,393.73,1968.65,Apple Pay,Education
+268,2024-08-30,AirPods Max,Accessories,Asia,Singapore,Singapore,Apple IFC Mall,1,546.18,546.18,PayPal,Premium
+269,2024-01-24,MacBook Air,Computers,Asia,Japan,Tokyo,Apple Champs-Élysées,1,1120.5,1120.5,Bank Transfer,Premium
+270,2024-02-07,AirPods 3rd Gen,Accessories,South America,Mexico,Mexico City,Apple Regent Street,1,185.7,185.7,Bank Transfer,Premium
+271,2024-01-03,iPad Air,Tablets,Middle East,Saudi Arabia,Jeddah,Apple Dubai Mall,2,572.21,1144.43,Debit Card,Premium
+272,2024-03-22,iPhone 14,Smartphone,South America,Mexico,Mexico City,Apple Fifth Avenue,2,674.47,1348.93,Bank Transfer,Education
+273,2024-01-30,Apple Watch Series 9,Wearables,Middle East,UAE,Abu Dhabi,Apple Michigan Avenue,1,384.93,384.93,Credit Card,Enterprise
+274,2024-05-25,AirPods Max,Accessories,South America,Brazil,São Paulo,Apple Pacific Centre,2,576.36,1152.72,PayPal,Premium
+275,2024-10-27,iPhone 15 Pro,Smartphone,North America,Canada,Montreal,Apple Eaton Centre,2,1048.06,2096.13,PayPal,Enterprise
+276,2024-12-24,iPad Mini,Tablets,Europe,Spain,Madrid,Apple Regent Street,1,490.74,490.74,Bank Transfer,Enterprise
+277,2024-04-22,AirPods 3rd Gen,Accessories,Middle East,Saudi Arabia,Riyadh,Apple Eaton Centre,1,186.89,186.89,Debit Card,Enterprise
+278,2024-10-28,Apple Watch Series 9,Wearables,Asia,Singapore,Singapore,Apple Ginza,1,396.41,396.41,Bank Transfer,Education
+279,2024-03-10,Apple Watch Series 9,Wearables,South America,Mexico,Mexico City,Apple Dubai Mall,1,396.48,396.48,Credit Card,Education
+280,2024-11-21,iPad Mini,Tablets,South America,Mexico,Guadalajara,Apple Sydney,2,506.83,1013.66,PayPal,Consumer
+281,2024-12-29,Apple Watch Series 9,Wearables,South America,Brazil,São Paulo,Apple Dubai Mall,4,389.01,1556.03,Debit Card,Consumer
+282,2024-07-23,MacBook Air,Computers,South America,Brazil,São Paulo,Apple Regent Street,1,1050.94,1050.94,Debit Card,Enterprise
+283,2024-01-21,"MacBook Pro 16""",Computers,Europe,UK,Edinburgh,Apple Dubai Mall,1,2433.22,2433.22,Apple Pay,Education
+284,2024-05-22,iPad Pro,Tablets,Middle East,Saudi Arabia,Jeddah,Apple Pacific Centre,2,1112.67,2225.35,Bank Transfer,Premium
+285,2024-01-21,iPhone 15,Smartphone,Middle East,UAE,Dubai,Apple IFC Mall,1,786.08,786.08,Apple Pay,Consumer
+286,2024-12-06,Apple Watch SE,Wearables,North America,USA,New York,Apple Fifth Avenue,1,242.16,242.16,Debit Card,Consumer
+287,2024-11-22,MacBook Air,Computers,North America,USA,Miami,Apple Union Square,1,1103.68,1103.68,Credit Card,Consumer
+288,2024-04-07,MacBook Air,Computers,Europe,UK,Manchester,Apple Ginza,1,1117.04,1117.04,Credit Card,Premium
+289,2024-11-25,iPhone 15,Smartphone,Asia,Singapore,Singapore,Apple Dubai Mall,1,764.03,764.03,PayPal,Enterprise
+290,2024-05-17,iPhone 14,Smartphone,Asia,China,Hong Kong,Apple Ginza,1,687.13,687.13,PayPal,Premium
+291,2024-05-22,iPad Air,Tablets,Middle East,UAE,Abu Dhabi,Apple Regent Street,3,583.35,1750.06,Credit Card,Education
+292,2024-02-27,Apple Watch SE,Wearables,Europe,UK,Edinburgh,Apple Union Square,1,248.1,248.1,PayPal,Consumer
+293,2024-02-11,"MacBook Pro 16""",Computers,Asia,Australia,Sydney,Apple Sydney,1,2397.39,2397.39,Bank Transfer,Enterprise
+294,2024-09-23,iPad Air,Tablets,South America,Mexico,Guadalajara,Apple Orchard Road,1,614.42,614.42,Bank Transfer,Consumer
+295,2024-03-12,iPad Pro,Tablets,North America,USA,Los Angeles,Apple IFC Mall,1,1105.35,1105.35,Debit Card,Enterprise
+296,2024-12-01,iPhone 14,Smartphone,Middle East,UAE,Dubai,Apple Union Square,1,699.49,699.49,PayPal,Consumer
+297,2024-01-08,"MacBook Pro 14""",Computers,South America,Mexico,Mexico City,Apple Ginza,1,2022.05,2022.05,Apple Pay,Education
+298,2024-05-16,Apple Watch SE,Wearables,Asia,China,Hong Kong,Apple Dubai Mall,1,254.61,254.61,Debit Card,Education
+299,2024-04-11,Apple Watch Series 9,Wearables,Asia,South Korea,Seoul,Apple Sydney,1,380.22,380.22,PayPal,Premium
+300,2024-06-02,AirPods 3rd Gen,Accessories,Middle East,UAE,Dubai,Apple Pacific Centre,3,184.71,554.13,Debit Card,Premium
+301,2024-07-29,Apple Watch SE,Wearables,South America,Brazil,São Paulo,Apple Union Square,3,247.99,743.96,Bank Transfer,Education
+302,2024-08-13,MacBook Air,Computers,Asia,Australia,Melbourne,Apple IFC Mall,1,1056.46,1056.46,Debit Card,Premium
+303,2024-06-11,"MacBook Pro 16""",Computers,Europe,UK,Edinburgh,Apple Union Square,2,2536.77,5073.54,Credit Card,Consumer
+304,2024-04-17,Apple Watch Ultra,Wearables,Asia,South Korea,Seoul,Apple Regent Street,2,767.55,1535.09,Apple Pay,Education
+305,2024-09-04,Apple Watch SE,Wearables,North America,Canada,Toronto,Apple Orchard Road,1,238.47,238.47,Apple Pay,Education
+306,2024-10-29,MacBook Air,Computers,Middle East,UAE,Dubai,Apple Ginza,1,1127.49,1127.49,PayPal,Education
+307,2024-02-08,iPad Mini,Tablets,Asia,Australia,Sydney,Apple Union Square,2,517.67,1035.35,Apple Pay,Enterprise
+308,2024-03-31,iPhone 15,Smartphone,South America,Brazil,Rio de Janeiro,Apple Michigan Avenue,1,823.16,823.16,Apple Pay,Education
+309,2024-10-07,iPad Air,Tablets,Europe,UK,Edinburgh,Apple Michigan Avenue,3,610.94,1832.82,PayPal,Education
+310,2024-06-21,iPad Pro,Tablets,North America,USA,San Francisco,Apple Dubai Mall,1,1113.85,1113.85,PayPal,Premium
+311,2024-04-29,MacBook Air,Computers,Middle East,UAE,Abu Dhabi,Apple Orchard Road,1,1049.12,1049.12,Credit Card,Education
+312,2024-11-03,iPad Mini,Tablets,Asia,Singapore,Singapore,Apple Michigan Avenue,1,510.49,510.49,Credit Card,Education
+313,2024-03-08,Apple Watch SE,Wearables,Europe,UK,London,Apple Champs-Élysées,3,241.16,723.49,Bank Transfer,Premium
+314,2024-06-06,Apple Watch SE,Wearables,Asia,South Korea,Busan,Apple Union Square,1,252.95,252.95,PayPal,Consumer
+315,2024-06-20,iPhone 15 Pro,Smartphone,Middle East,UAE,Dubai,Apple Sydney,2,1031.9,2063.79,Credit Card,Education
+316,2024-10-27,iPad Pro,Tablets,South America,Mexico,Guadalajara,Apple Sydney,1,1062.16,1062.16,Bank Transfer,Enterprise
+317,2024-02-07,"MacBook Pro 16""",Computers,North America,USA,Chicago,Apple Regent Street,2,2406.96,4813.92,PayPal,Premium
+318,2024-03-16,AirPods Pro,Accessories,Asia,Australia,Melbourne,Apple Orchard Road,2,255.07,510.13,Credit Card,Education
+319,2024-03-27,MacBook Air,Computers,North America,Canada,Toronto,Apple Pacific Centre,2,1143.77,2287.54,Apple Pay,Education
+320,2024-12-27,iPhone 15 Pro,Smartphone,North America,USA,Miami,Apple Fifth Avenue,2,995.98,1991.95,Bank Transfer,Education
+321,2024-11-07,iPhone 15 Pro,Smartphone,Middle East,UAE,Abu Dhabi,Apple Fifth Avenue,1,970.93,970.93,Apple Pay,Education
+322,2024-12-18,Apple Watch Series 9,Wearables,Middle East,UAE,Dubai,Apple IFC Mall,1,416.23,416.23,Credit Card,Education
+323,2024-02-06,iPhone 15 Pro,Smartphone,North America,USA,Miami,Apple Michigan Avenue,3,1006.47,3019.41,Bank Transfer,Education
+324,2024-09-23,AirPods 3rd Gen,Accessories,Asia,South Korea,Seoul,Apple Fifth Avenue,1,183.11,183.11,Bank Transfer,Consumer
+325,2024-04-18,Apple Watch SE,Wearables,Middle East,Saudi Arabia,Riyadh,Apple IFC Mall,5,257.0,1284.99,Credit Card,Enterprise
+326,2024-06-22,iPad Pro,Tablets,Middle East,UAE,Dubai,Apple Fifth Avenue,2,1119.51,2239.01,Debit Card,Education
+327,2024-06-09,AirPods Max,Accessories,South America,Mexico,Mexico City,Apple Michigan Avenue,1,551.72,551.72,Credit Card,Consumer
+328,2024-11-27,Apple Watch Series 9,Wearables,Asia,China,Hong Kong,Apple Union Square,2,406.13,812.26,Debit Card,Enterprise
+329,2024-11-26,AirPods Pro,Accessories,Europe,Germany,Hamburg,Apple Champs-Élysées,1,240.39,240.39,Apple Pay,Education
+330,2024-06-03,"MacBook Pro 14""",Computers,Europe,Spain,Barcelona,Apple Michigan Avenue,1,1927.46,1927.46,Credit Card,Consumer
+331,2024-09-24,iPhone 14,Smartphone,Asia,China,Hong Kong,Apple IFC Mall,4,720.53,2882.12,Credit Card,Enterprise
+332,2024-10-20,Apple Watch SE,Wearables,Middle East,Saudi Arabia,Riyadh,Apple Union Square,1,238.48,238.48,Credit Card,Consumer
+333,2024-05-01,AirPods 3rd Gen,Accessories,South America,Mexico,Guadalajara,Apple Michigan Avenue,1,180.42,180.42,Credit Card,Enterprise
+334,2024-01-23,iPad Air,Tablets,Asia,Japan,Kyoto,Apple Sydney,1,592.59,592.59,Debit Card,Education
+335,2024-06-04,"MacBook Pro 14""",Computers,South America,Brazil,Rio de Janeiro,Apple Fifth Avenue,1,1929.93,1929.93,Bank Transfer,Premium
+336,2024-05-05,Apple Watch Ultra,Wearables,North America,USA,Miami,Apple Orchard Road,1,776.46,776.46,PayPal,Premium
+337,2024-11-16,AirPods Max,Accessories,South America,Brazil,São Paulo,Apple Union Square,1,523.06,523.06,Apple Pay,Enterprise
+338,2024-03-15,AirPods Pro,Accessories,South America,Mexico,Mexico City,Apple Champs-Élysées,4,246.86,987.45,Apple Pay,Premium
+339,2024-09-18,Apple Watch Ultra,Wearables,Middle East,UAE,Dubai,Apple IFC Mall,4,768.33,3073.32,Debit Card,Education
+340,2024-12-22,iPhone 14,Smartphone,South America,Mexico,Guadalajara,Apple Sydney,5,684.21,3421.05,PayPal,Consumer
+341,2024-04-18,MacBook Air,Computers,South America,Brazil,São Paulo,Apple Sydney,1,1103.58,1103.58,Bank Transfer,Enterprise
+342,2024-12-08,iPhone 14,Smartphone,Asia,Japan,Osaka,Apple Michigan Avenue,1,699.52,699.52,PayPal,Consumer
+343,2024-10-26,Apple Watch Ultra,Wearables,South America,Brazil,São Paulo,Apple Pacific Centre,1,838.93,838.93,Bank Transfer,Enterprise
+344,2024-12-19,Apple Watch Ultra,Wearables,South America,Brazil,São Paulo,Apple Fifth Avenue,2,783.06,1566.12,Credit Card,Education
+345,2024-09-06,iPhone 14,Smartphone,Middle East,UAE,Dubai,Apple Orchard Road,1,697.29,697.29,PayPal,Premium
+346,2024-05-26,AirPods Max,Accessories,Asia,Singapore,Singapore,Apple Union Square,2,550.83,1101.67,PayPal,Premium
+347,2024-05-28,MacBook Air,Computers,Asia,Australia,Sydney,Apple Fifth Avenue,2,1095.35,2190.7,Debit Card,Education
+348,2024-03-10,iPhone 15 Pro,Smartphone,Asia,South Korea,Busan,Apple Pacific Centre,1,1035.32,1035.32,Debit Card,Education
+349,2024-04-11,Apple Watch Ultra,Wearables,North America,Canada,Montreal,Apple Eaton Centre,1,798.39,798.39,Debit Card,Consumer
+350,2024-06-27,"MacBook Pro 14""",Computers,Asia,Japan,Kyoto,Apple Regent Street,3,1994.3,5982.9,Credit Card,Education
+351,2024-04-25,AirPods Pro,Accessories,North America,USA,New York,Apple Fifth Avenue,3,238.11,714.32,Apple Pay,Enterprise
+352,2024-11-20,AirPods Pro,Accessories,Middle East,UAE,Dubai,Apple Union Square,1,253.67,253.67,Apple Pay,Enterprise
+353,2024-02-23,Apple Watch Series 9,Wearables,Europe,Spain,Barcelona,Apple Sydney,1,387.46,387.46,Credit Card,Premium
+354,2024-10-29,iPhone 14,Smartphone,Asia,Japan,Osaka,Apple Fifth Avenue,1,664.21,664.21,Apple Pay,Consumer
+355,2024-10-18,iPad Mini,Tablets,Middle East,UAE,Dubai,Apple Ginza,1,520.81,520.81,PayPal,Education
+356,2024-07-19,AirPods Max,Accessories,North America,Canada,Montreal,Apple Union Square,1,543.46,543.46,Debit Card,Premium
+357,2024-09-16,AirPods 3rd Gen,Accessories,Asia,South Korea,Busan,Apple Michigan Avenue,2,180.38,360.76,Debit Card,Consumer
+358,2024-03-01,iPhone 14,Smartphone,Asia,Japan,Tokyo,Apple Dubai Mall,3,680.98,2042.95,PayPal,Premium
+359,2024-01-13,iPad Air,Tablets,South America,Mexico,Mexico City,Apple Michigan Avenue,3,624.71,1874.13,Apple Pay,Premium
+360,2024-08-08,iPad Pro,Tablets,Middle East,UAE,Dubai,Apple Fifth Avenue,2,1151.64,2303.28,Bank Transfer,Enterprise
+361,2024-02-22,iPhone 14,Smartphone,North America,USA,New York,Apple Dubai Mall,1,695.46,695.46,Debit Card,Education
+362,2024-02-23,"MacBook Pro 16""",Computers,South America,Mexico,Guadalajara,Apple Union Square,2,2579.6,5159.2,PayPal,Consumer
+363,2024-02-28,iPad Pro,Tablets,Europe,Italy,Florence,Apple Union Square,1,1113.24,1113.24,Apple Pay,Consumer
+364,2024-07-22,iPhone 15 Pro,Smartphone,North America,USA,New York,Apple IFC Mall,2,1020.48,2040.96,Credit Card,Enterprise
+365,2024-03-28,iPhone 15,Smartphone,North America,Canada,Toronto,Apple Pacific Centre,2,784.32,1568.64,Apple Pay,Consumer
+366,2024-03-05,Apple Watch Ultra,Wearables,Asia,China,Hong Kong,Apple Union Square,1,822.09,822.09,Apple Pay,Consumer
+367,2024-03-23,iPhone 15 Pro,Smartphone,South America,Brazil,São Paulo,Apple Fifth Avenue,2,998.38,1996.76,Credit Card,Education
+368,2024-08-04,iPad Air,Tablets,Europe,Spain,Madrid,Apple Eaton Centre,2,626.92,1253.83,PayPal,Enterprise
+369,2024-09-29,"MacBook Pro 16""",Computers,North America,Canada,Toronto,Apple Ginza,1,2532.57,2532.57,Bank Transfer,Premium
+370,2024-04-10,MacBook Air,Computers,South America,Mexico,Mexico City,Apple Michigan Avenue,1,1067.01,1067.01,Apple Pay,Education
+371,2024-12-26,Apple Watch SE,Wearables,North America,USA,Los Angeles,Apple Ginza,3,257.72,773.17,Credit Card,Consumer
+372,2024-06-14,Apple Watch Ultra,Wearables,North America,Canada,Toronto,Apple Dubai Mall,2,782.64,1565.29,PayPal,Premium
+373,2024-01-03,Apple Watch SE,Wearables,South America,Mexico,Mexico City,Apple Pacific Centre,2,241.51,483.02,PayPal,Consumer
+374,2024-09-08,Apple Watch Ultra,Wearables,Asia,Singapore,Singapore,Apple Sydney,3,821.53,2464.6,Bank Transfer,Education
+375,2024-10-29,"MacBook Pro 14""",Computers,Europe,Spain,Madrid,Apple Champs-Élysées,1,1902.91,1902.91,PayPal,Premium
+376,2024-05-17,iPhone 14,Smartphone,North America,USA,New York,Apple Pacific Centre,1,664.74,664.74,Apple Pay,Consumer
+377,2024-08-15,Apple Watch Series 9,Wearables,South America,Mexico,Guadalajara,Apple Fifth Avenue,1,409.93,409.93,Credit Card,Education
+378,2024-04-01,Apple Watch Series 9,Wearables,South America,Brazil,Rio de Janeiro,Apple Ginza,1,394.31,394.31,Credit Card,Premium
+379,2024-05-13,iPad Pro,Tablets,Middle East,UAE,Dubai,Apple Dubai Mall,1,1082.31,1082.31,PayPal,Education
+380,2024-07-26,Apple Watch Ultra,Wearables,Middle East,Saudi Arabia,Riyadh,Apple Dubai Mall,3,813.03,2439.09,Apple Pay,Education
+381,2024-08-12,iPad Pro,Tablets,North America,Canada,Toronto,Apple Champs-Élysées,1,1142.9,1142.9,Bank Transfer,Consumer
+382,2024-06-05,iPhone 15,Smartphone,Europe,Italy,Milan,Apple Pacific Centre,1,763.67,763.67,Debit Card,Education
+383,2024-04-28,"MacBook Pro 14""",Computers,South America,Mexico,Mexico City,Apple Pacific Centre,2,1940.03,3880.05,Debit Card,Education
+384,2024-07-17,Apple Watch Series 9,Wearables,North America,Canada,Toronto,Apple IFC Mall,1,390.07,390.07,Bank Transfer,Consumer
+385,2024-12-25,"MacBook Pro 16""",Computers,South America,Brazil,São Paulo,Apple Fifth Avenue,1,2603.33,2603.33,PayPal,Consumer
+386,2024-02-16,AirPods Max,Accessories,North America,Canada,Vancouver,Apple IFC Mall,1,521.98,521.98,PayPal,Consumer
+387,2024-09-04,MacBook Air,Computers,North America,Canada,Vancouver,Apple Eaton Centre,2,1082.98,2165.97,Debit Card,Consumer
+388,2024-02-15,"MacBook Pro 14""",Computers,Europe,Germany,Munich,Apple Michigan Avenue,1,1988.11,1988.11,PayPal,Consumer
+389,2024-08-22,Apple Watch SE,Wearables,North America,USA,Chicago,Apple Union Square,3,242.58,727.73,Credit Card,Education
+390,2024-03-08,iPhone 14,Smartphone,South America,Mexico,Guadalajara,Apple Eaton Centre,5,703.86,3519.3,Apple Pay,Consumer
+391,2024-03-29,iPhone 15,Smartphone,Asia,Japan,Osaka,Apple Champs-Élysées,1,822.38,822.38,Apple Pay,Consumer
+392,2024-12-19,iPhone 15 Pro,Smartphone,Asia,South Korea,Seoul,Apple Union Square,5,988.29,4941.45,Debit Card,Education
+393,2024-12-17,"MacBook Pro 16""",Computers,North America,USA,New York,Apple Eaton Centre,5,2564.87,12824.34,Bank Transfer,Premium
+394,2024-02-13,iPad Mini,Tablets,Middle East,Saudi Arabia,Jeddah,Apple Ginza,1,501.59,501.59,Apple Pay,Consumer
+395,2024-08-03,Apple Watch Series 9,Wearables,South America,Mexico,Guadalajara,Apple Dubai Mall,2,382.86,765.71,Bank Transfer,Enterprise
+396,2024-12-14,iPhone 14,Smartphone,South America,Brazil,São Paulo,Apple IFC Mall,4,674.8,2699.2,Apple Pay,Premium
+397,2024-05-08,iPad Mini,Tablets,Middle East,UAE,Dubai,Apple Michigan Avenue,1,511.69,511.69,Apple Pay,Enterprise
+398,2024-04-22,iPad Pro,Tablets,Asia,Japan,Osaka,Apple Fifth Avenue,2,1071.64,2143.27,PayPal,Consumer
+399,2024-03-31,iPhone 15,Smartphone,South America,Brazil,Rio de Janeiro,Apple Fifth Avenue,1,832.42,832.42,PayPal,Enterprise
+400,2024-09-22,Apple Watch Ultra,Wearables,Asia,China,Beijing,Apple Ginza,1,773.05,773.05,Debit Card,Education
+401,2024-08-24,iPad Mini,Tablets,Middle East,Saudi Arabia,Riyadh,Apple Eaton Centre,1,495.38,495.38,PayPal,Premium
+402,2024-04-18,Apple Watch SE,Wearables,Europe,Spain,Madrid,Apple Regent Street,3,258.68,776.05,Debit Card,Education
+403,2024-04-18,AirPods Pro,Accessories,North America,Canada,Montreal,Apple Dubai Mall,1,252.39,252.39,Apple Pay,Education
+404,2024-09-27,iPhone 14,Smartphone,Middle East,UAE,Dubai,Apple Orchard Road,3,667.38,2002.14,PayPal,Premium
+405,2024-01-24,iPad Air,Tablets,Europe,Italy,Florence,Apple Union Square,3,601.34,1804.03,PayPal,Enterprise
+406,2024-12-30,"MacBook Pro 14""",Computers,Middle East,Saudi Arabia,Riyadh,Apple Sydney,1,1911.31,1911.31,Bank Transfer,Consumer
+407,2024-05-17,iPad Air,Tablets,Middle East,UAE,Abu Dhabi,Apple Michigan Avenue,3,572.16,1716.48,PayPal,Education
+408,2024-11-27,MacBook Air,Computers,Asia,Australia,Sydney,Apple Sydney,3,1090.5,3271.49,Debit Card,Premium
+409,2024-07-08,"MacBook Pro 14""",Computers,North America,Canada,Montreal,Apple Michigan Avenue,1,1973.2,1973.2,Apple Pay,Enterprise
+410,2024-08-15,iPad Pro,Tablets,Middle East,Saudi Arabia,Riyadh,Apple Orchard Road,2,1052.67,2105.34,Debit Card,Premium
+411,2024-02-01,Apple Watch Ultra,Wearables,Europe,UK,London,Apple Eaton Centre,2,797.55,1595.1,Credit Card,Education
+412,2024-02-17,"MacBook Pro 16""",Computers,North America,USA,Miami,Apple Ginza,1,2502.46,2502.46,Credit Card,Enterprise
+413,2024-10-18,iPhone 15 Pro,Smartphone,North America,USA,Los Angeles,Apple Orchard Road,1,958.86,958.86,Credit Card,Enterprise
+414,2024-06-15,AirPods Pro,Accessories,North America,USA,Los Angeles,Apple Eaton Centre,1,240.09,240.09,PayPal,Education
+415,2024-09-01,iPhone 14,Smartphone,North America,USA,New York,Apple Pacific Centre,2,694.48,1388.96,Credit Card,Consumer
+416,2024-09-27,"MacBook Pro 16""",Computers,South America,Mexico,Mexico City,Apple Michigan Avenue,2,2405.13,4810.27,Debit Card,Consumer
+417,2024-09-26,iPhone 15,Smartphone,Middle East,UAE,Abu Dhabi,Apple Orchard Road,2,824.34,1648.68,Credit Card,Consumer
+418,2024-06-16,iPhone 14,Smartphone,Middle East,UAE,Dubai,Apple Eaton Centre,1,672.33,672.33,Apple Pay,Enterprise
+419,2024-07-22,Apple Watch Ultra,Wearables,Asia,Japan,Tokyo,Apple Regent Street,2,808.99,1617.98,Debit Card,Education
+420,2024-01-22,iPhone 14,Smartphone,North America,USA,Chicago,Apple Union Square,3,727.39,2182.16,Debit Card,Education
+421,2024-11-23,Apple Watch SE,Wearables,North America,USA,San Francisco,Apple Ginza,1,245.34,245.34,Credit Card,Premium
+422,2024-04-06,"MacBook Pro 14""",Computers,North America,Canada,Vancouver,Apple Ginza,1,2055.72,2055.72,Debit Card,Education
+423,2024-01-19,MacBook Air,Computers,Middle East,UAE,Abu Dhabi,Apple Dubai Mall,4,1114.58,4458.31,Apple Pay,Education
+424,2024-11-05,AirPods Pro,Accessories,South America,Brazil,Rio de Janeiro,Apple Union Square,4,259.33,1037.31,Debit Card,Premium
+425,2024-06-05,Apple Watch Series 9,Wearables,North America,Canada,Vancouver,Apple IFC Mall,1,395.15,395.15,Bank Transfer,Premium
+426,2024-08-06,iPhone 15 Pro,Smartphone,South America,Brazil,São Paulo,Apple Michigan Avenue,1,997.31,997.31,Debit Card,Education
+427,2024-10-06,Apple Watch Series 9,Wearables,Europe,France,Marseille,Apple Dubai Mall,1,415.98,415.98,PayPal,Enterprise
+428,2024-02-10,MacBook Air,Computers,South America,Mexico,Mexico City,Apple Regent Street,1,1104.87,1104.87,Bank Transfer,Premium
+429,2024-11-18,MacBook Air,Computers,Asia,Japan,Tokyo,Apple Fifth Avenue,2,1108.18,2216.37,Apple Pay,Education
+430,2024-02-28,Apple Watch SE,Wearables,Europe,Spain,Madrid,Apple Michigan Avenue,1,240.41,240.41,Apple Pay,Premium
+431,2024-02-17,"MacBook Pro 14""",Computers,Asia,Australia,Melbourne,Apple Sydney,1,2024.48,2024.48,Bank Transfer,Education
+432,2024-01-07,iPhone 15 Pro,Smartphone,North America,Canada,Montreal,Apple Fifth Avenue,1,1021.55,1021.55,Debit Card,Education
+433,2024-10-14,MacBook Air,Computers,North America,Canada,Vancouver,Apple Eaton Centre,1,1054.23,1054.23,Apple Pay,Consumer
+434,2024-05-06,iPad Mini,Tablets,South America,Brazil,São Paulo,Apple Regent Street,1,510.15,510.15,Debit Card,Enterprise
+435,2024-09-04,Apple Watch SE,Wearables,North America,USA,New York,Apple Sydney,1,254.33,254.33,Credit Card,Consumer
+436,2024-05-30,AirPods Max,Accessories,South America,Brazil,Rio de Janeiro,Apple Fifth Avenue,1,536.42,536.42,Debit Card,Education
+437,2024-07-21,AirPods Pro,Accessories,Europe,France,Lyon,Apple IFC Mall,1,251.36,251.36,Debit Card,Premium
+438,2024-02-07,AirPods Max,Accessories,Asia,Australia,Sydney,Apple Orchard Road,1,555.41,555.41,Credit Card,Enterprise
+439,2024-03-31,AirPods 3rd Gen,Accessories,Asia,Japan,Tokyo,Apple Sydney,1,184.36,184.36,Credit Card,Education
+440,2024-10-10,iPhone 15 Pro,Smartphone,Middle East,UAE,Abu Dhabi,Apple Orchard Road,2,990.14,1980.29,Debit Card,Enterprise
+441,2024-05-02,Apple Watch SE,Wearables,Europe,Italy,Rome,Apple Pacific Centre,1,256.07,256.07,Debit Card,Premium
+442,2024-03-03,MacBook Air,Computers,Asia,Japan,Tokyo,Apple Regent Street,1,1088.85,1088.85,Apple Pay,Premium
+443,2024-03-28,"MacBook Pro 16""",Computers,South America,Brazil,São Paulo,Apple Dubai Mall,2,2376.92,4753.84,Credit Card,Consumer
+444,2024-04-11,MacBook Air,Computers,Middle East,Saudi Arabia,Riyadh,Apple Ginza,2,1147.63,2295.27,Debit Card,Enterprise
+445,2024-04-18,AirPods Max,Accessories,South America,Brazil,São Paulo,Apple Regent Street,1,538.56,538.56,PayPal,Enterprise
+446,2024-11-07,Apple Watch Series 9,Wearables,North America,USA,Miami,Apple IFC Mall,3,410.54,1231.63,Bank Transfer,Education
+447,2024-04-19,Apple Watch Series 9,Wearables,North America,Canada,Vancouver,Apple Dubai Mall,1,391.76,391.76,Bank Transfer,Consumer
+448,2024-01-06,iPhone 14,Smartphone,Middle East,UAE,Dubai,Apple Champs-Élysées,1,719.58,719.58,Credit Card,Education
+449,2024-11-08,AirPods Max,Accessories,North America,USA,Miami,Apple Dubai Mall,1,559.65,559.65,Bank Transfer,Consumer
+450,2024-09-03,iPad Air,Tablets,Middle East,Saudi Arabia,Riyadh,Apple Champs-Élysées,2,586.83,1173.66,Credit Card,Premium
+451,2024-07-27,AirPods 3rd Gen,Accessories,Asia,Japan,Kyoto,Apple IFC Mall,1,171.94,171.94,PayPal,Premium
+452,2024-07-19,Apple Watch Series 9,Wearables,South America,Brazil,Rio de Janeiro,Apple Dubai Mall,1,394.65,394.65,Apple Pay,Premium
+453,2024-05-31,iPad Air,Tablets,Asia,Singapore,Singapore,Apple Sydney,1,594.74,594.74,Apple Pay,Enterprise
+454,2024-11-25,iPad Air,Tablets,Europe,UK,London,Apple Union Square,1,601.8,601.8,Credit Card,Premium
+455,2024-04-02,AirPods Max,Accessories,Middle East,Saudi Arabia,Riyadh,Apple Ginza,1,540.06,540.06,Debit Card,Consumer
+456,2024-03-11,AirPods Pro,Accessories,Middle East,Saudi Arabia,Riyadh,Apple Michigan Avenue,1,249.19,249.19,Bank Transfer,Consumer
+457,2024-08-28,AirPods 3rd Gen,Accessories,North America,USA,New York,Apple Eaton Centre,1,180.09,180.09,Bank Transfer,Enterprise
+458,2024-10-08,Apple Watch SE,Wearables,North America,Canada,Toronto,Apple Orchard Road,2,248.13,496.26,Credit Card,Enterprise
+459,2024-12-29,iPhone 14,Smartphone,North America,USA,Miami,Apple Michigan Avenue,3,692.33,2076.99,Apple Pay,Enterprise
+460,2024-06-29,AirPods 3rd Gen,Accessories,North America,Canada,Vancouver,Apple Michigan Avenue,1,173.77,173.77,PayPal,Enterprise
+461,2024-07-03,iPad Air,Tablets,South America,Brazil,Rio de Janeiro,Apple Regent Street,2,573.49,1146.98,Debit Card,Consumer
+462,2024-02-14,MacBook Air,Computers,South America,Mexico,Mexico City,Apple Eaton Centre,1,1093.11,1093.11,Apple Pay,Premium
+463,2024-07-24,iPad Air,Tablets,Asia,Australia,Sydney,Apple Pacific Centre,2,608.39,1216.78,Apple Pay,Education
+464,2024-12-12,AirPods 3rd Gen,Accessories,Asia,Japan,Osaka,Apple Fifth Avenue,1,181.36,181.36,Debit Card,Consumer
+465,2024-07-25,iPad Mini,Tablets,South America,Mexico,Mexico City,Apple IFC Mall,1,500.05,500.05,Debit Card,Education
+466,2024-07-27,iPhone 14,Smartphone,Middle East,UAE,Abu Dhabi,Apple Pacific Centre,2,675.92,1351.85,Credit Card,Enterprise
+467,2024-08-07,MacBook Air,Computers,Middle East,Saudi Arabia,Riyadh,Apple Dubai Mall,2,1091.65,2183.31,Debit Card,Education
+468,2024-09-01,MacBook Air,Computers,Europe,Italy,Rome,Apple Eaton Centre,1,1066.28,1066.28,Apple Pay,Consumer
+469,2024-02-09,AirPods Pro,Accessories,Asia,Japan,Osaka,Apple Pacific Centre,2,255.12,510.24,Credit Card,Premium
+470,2024-01-02,iPhone 15,Smartphone,South America,Brazil,Rio de Janeiro,Apple Dubai Mall,2,822.67,1645.34,Credit Card,Enterprise
+471,2024-07-13,MacBook Air,Computers,Asia,Singapore,Singapore,Apple Fifth Avenue,1,1134.82,1134.82,Bank Transfer,Premium
+472,2024-04-19,AirPods Pro,Accessories,Asia,Australia,Sydney,Apple Champs-Élysées,1,255.89,255.89,PayPal,Education
+473,2024-10-05,iPad Pro,Tablets,South America,Mexico,Mexico City,Apple Regent Street,1,1091.56,1091.56,Credit Card,Consumer
+474,2024-03-03,MacBook Air,Computers,Middle East,UAE,Abu Dhabi,Apple Michigan Avenue,3,1113.29,3339.87,Debit Card,Education
+475,2024-08-04,iPad Air,Tablets,Asia,Singapore,Singapore,Apple Dubai Mall,5,618.49,3092.46,Debit Card,Education
+476,2024-11-26,iPhone 15 Pro,Smartphone,Middle East,Saudi Arabia,Jeddah,Apple Eaton Centre,5,981.68,4908.41,Apple Pay,Education
+477,2024-03-01,Apple Watch Series 9,Wearables,Asia,Singapore,Singapore,Apple Eaton Centre,1,380.66,380.66,Bank Transfer,Consumer
+478,2024-10-17,"MacBook Pro 16""",Computers,Asia,South Korea,Seoul,Apple Michigan Avenue,1,2377.47,2377.47,PayPal,Education
+479,2024-10-17,MacBook Air,Computers,Europe,UK,Edinburgh,Apple Eaton Centre,1,1147.18,1147.18,Bank Transfer,Consumer
+480,2024-05-04,Apple Watch Series 9,Wearables,Asia,China,Beijing,Apple Michigan Avenue,1,407.28,407.28,Apple Pay,Consumer
+481,2024-10-02,iPhone 14,Smartphone,Asia,Japan,Kyoto,Apple Pacific Centre,1,678.84,678.84,Apple Pay,Consumer
+482,2024-09-24,iPhone 15,Smartphone,South America,Mexico,Mexico City,Apple IFC Mall,2,806.44,1612.89,Apple Pay,Education
+483,2024-07-07,iPhone 15,Smartphone,Asia,Japan,Kyoto,Apple Eaton Centre,1,799.03,799.03,Credit Card,Enterprise
+484,2024-12-10,iPad Mini,Tablets,Europe,France,Paris,Apple Dubai Mall,1,483.0,483.0,PayPal,Premium
+485,2024-08-01,iPhone 15,Smartphone,North America,USA,Los Angeles,Apple Regent Street,2,761.04,1522.09,Apple Pay,Enterprise
+486,2024-07-25,Apple Watch SE,Wearables,South America,Mexico,Guadalajara,Apple Michigan Avenue,2,260.29,520.59,Bank Transfer,Consumer
+487,2024-11-17,"MacBook Pro 14""",Computers,North America,Canada,Vancouver,Apple Regent Street,1,2047.09,2047.09,PayPal,Education
+488,2024-10-25,MacBook Air,Computers,South America,Mexico,Mexico City,Apple Orchard Road,1,1144.68,1144.68,PayPal,Education
+489,2024-05-23,AirPods 3rd Gen,Accessories,Asia,Singapore,Singapore,Apple Eaton Centre,3,173.57,520.71,Bank Transfer,Enterprise
+490,2024-03-28,AirPods Max,Accessories,North America,USA,Chicago,Apple Regent Street,1,559.5,559.5,Credit Card,Education
+491,2024-07-25,AirPods Max,Accessories,Middle East,Saudi Arabia,Jeddah,Apple Regent Street,1,545.45,545.45,PayPal,Consumer
+492,2024-09-29,Apple Watch Series 9,Wearables,Middle East,UAE,Abu Dhabi,Apple Eaton Centre,2,395.66,791.31,Debit Card,Premium
+493,2024-09-07,"MacBook Pro 16""",Computers,Europe,Germany,Hamburg,Apple Ginza,1,2620.28,2620.28,Credit Card,Education
+494,2024-03-12,iPad Air,Tablets,South America,Mexico,Mexico City,Apple Orchard Road,1,606.82,606.82,Bank Transfer,Premium
+495,2024-02-25,Apple Watch SE,Wearables,Europe,Italy,Milan,Apple Regent Street,2,238.11,476.22,Bank Transfer,Premium
+496,2024-03-26,"MacBook Pro 16""",Computers,Europe,Germany,Hamburg,Apple Dubai Mall,2,2528.29,5056.59,Bank Transfer,Education
+497,2024-09-22,iPad Air,Tablets,Asia,Australia,Melbourne,Apple Pacific Centre,1,573.98,573.98,Debit Card,Consumer
+498,2024-04-15,"MacBook Pro 14""",Computers,Europe,UK,Manchester,Apple Sydney,1,2032.43,2032.43,Credit Card,Enterprise
+499,2024-04-15,AirPods Max,Accessories,Middle East,UAE,Abu Dhabi,Apple Sydney,4,522.42,2089.67,Bank Transfer,Premium
+500,2024-11-28,iPad Mini,Tablets,South America,Mexico,Guadalajara,Apple Michigan Avenue,2,479.89,959.78,Debit Card,Education
+501,2024-10-21,"MacBook Pro 16""",Computers,Asia,China,Shanghai,Apple Orchard Road,1,2611.82,2611.82,Bank Transfer,Premium
+502,2024-03-17,iPad Mini,Tablets,South America,Mexico,Guadalajara,Apple Champs-Élysées,1,501.63,501.63,Credit Card,Consumer
+503,2024-06-08,Apple Watch Ultra,Wearables,South America,Brazil,Rio de Janeiro,Apple Michigan Avenue,1,773.66,773.66,Debit Card,Education
+504,2024-04-05,AirPods Pro,Accessories,North America,Canada,Vancouver,Apple Michigan Avenue,4,258.81,1035.24,PayPal,Consumer
+505,2024-11-10,AirPods Max,Accessories,Middle East,UAE,Dubai,Apple Regent Street,2,533.66,1067.31,Bank Transfer,Premium
+506,2024-03-24,iPad Pro,Tablets,South America,Brazil,São Paulo,Apple IFC Mall,2,1112.99,2225.99,Bank Transfer,Consumer
+507,2024-09-29,iPad Air,Tablets,Europe,Germany,Hamburg,Apple Dubai Mall,1,581.48,581.48,Debit Card,Enterprise
+508,2024-07-05,AirPods Pro,Accessories,Middle East,UAE,Abu Dhabi,Apple Sydney,2,251.87,503.74,Debit Card,Enterprise
+509,2024-10-12,iPad Pro,Tablets,Middle East,Saudi Arabia,Jeddah,Apple Union Square,1,1047.4,1047.4,Bank Transfer,Education
+510,2024-02-24,iPhone 15 Pro,Smartphone,Asia,Australia,Sydney,Apple Sydney,1,1026.33,1026.33,Bank Transfer,Enterprise
+511,2024-06-28,AirPods 3rd Gen,Accessories,North America,USA,San Francisco,Apple Sydney,3,172.93,518.78,Apple Pay,Enterprise
+512,2024-04-07,iPad Mini,Tablets,South America,Brazil,São Paulo,Apple Sydney,2,488.07,976.15,PayPal,Consumer
+513,2024-04-16,iPad Air,Tablets,Europe,France,Marseille,Apple Dubai Mall,1,615.34,615.34,Debit Card,Consumer
+514,2024-07-31,"MacBook Pro 14""",Computers,Europe,Spain,Madrid,Apple Michigan Avenue,1,2054.02,2054.02,Apple Pay,Enterprise
+515,2024-05-18,iPad Air,Tablets,North America,USA,Chicago,Apple Union Square,2,624.95,1249.9,PayPal,Enterprise
+516,2024-09-29,MacBook Air,Computers,Asia,Australia,Melbourne,Apple Champs-Élysées,4,1141.3,4565.18,PayPal,Premium
+517,2024-08-05,iPhone 15 Pro,Smartphone,Asia,Australia,Melbourne,Apple Regent Street,2,1003.3,2006.6,PayPal,Enterprise
+518,2024-07-06,AirPods 3rd Gen,Accessories,Asia,Japan,Kyoto,Apple Orchard Road,1,185.26,185.26,Debit Card,Premium
+519,2024-10-30,iPad Air,Tablets,North America,USA,San Francisco,Apple Orchard Road,4,596.17,2384.69,PayPal,Enterprise
+520,2024-05-16,AirPods Max,Accessories,South America,Brazil,Rio de Janeiro,Apple Dubai Mall,5,546.07,2730.37,Debit Card,Enterprise
+521,2024-09-06,iPad Air,Tablets,Europe,UK,Manchester,Apple Regent Street,2,603.67,1207.33,Apple Pay,Education
+522,2024-01-05,iPhone 14,Smartphone,Europe,France,Paris,Apple Michigan Avenue,1,710.43,710.43,Debit Card,Enterprise
+523,2024-06-10,iPad Pro,Tablets,Europe,Italy,Florence,Apple Regent Street,1,1120.0,1120.0,Credit Card,Premium
+524,2024-03-29,iPhone 15,Smartphone,Asia,Japan,Tokyo,Apple Sydney,3,824.77,2474.3,Bank Transfer,Premium
+525,2024-10-20,AirPods Pro,Accessories,Europe,Germany,Munich,Apple Regent Street,2,252.29,504.59,Credit Card,Premium
+526,2024-03-10,iPhone 15 Pro,Smartphone,Asia,Australia,Sydney,Apple Dubai Mall,2,1042.11,2084.22,PayPal,Enterprise
+527,2024-08-01,iPad Air,Tablets,Asia,Japan,Osaka,Apple Sydney,4,574.01,2296.02,Apple Pay,Consumer
+528,2024-07-10,"MacBook Pro 14""",Computers,Europe,Spain,Madrid,Apple Dubai Mall,1,1917.47,1917.47,Bank Transfer,Consumer
+529,2024-03-13,Apple Watch Ultra,Wearables,Europe,UK,Edinburgh,Apple Eaton Centre,1,767.3,767.3,Debit Card,Consumer
+530,2024-08-07,Apple Watch Series 9,Wearables,North America,USA,Los Angeles,Apple Ginza,1,384.81,384.81,PayPal,Consumer
+531,2024-03-16,iPhone 15 Pro,Smartphone,Middle East,UAE,Dubai,Apple Fifth Avenue,1,1017.86,1017.86,Debit Card,Consumer
+532,2024-11-30,iPhone 15 Pro,Smartphone,Asia,Singapore,Singapore,Apple Orchard Road,1,954.22,954.22,Debit Card,Consumer
+533,2024-05-24,MacBook Air,Computers,North America,Canada,Vancouver,Apple Champs-Élysées,1,1064.13,1064.13,Bank Transfer,Enterprise
+534,2024-11-05,AirPods Pro,Accessories,Asia,Singapore,Singapore,Apple Fifth Avenue,1,241.64,241.64,PayPal,Premium
+535,2024-07-15,MacBook Air,Computers,Europe,UK,Edinburgh,Apple Sydney,2,1147.04,2294.08,Debit Card,Education
+536,2024-07-16,Apple Watch Ultra,Wearables,Europe,Germany,Berlin,Apple Sydney,2,764.52,1529.04,PayPal,Enterprise
+537,2024-01-19,AirPods Max,Accessories,Asia,Australia,Sydney,Apple Fifth Avenue,2,534.26,1068.52,Apple Pay,Education
+538,2024-05-01,Apple Watch SE,Wearables,Middle East,UAE,Dubai,Apple Dubai Mall,1,239.19,239.19,PayPal,Consumer
+539,2024-11-09,AirPods 3rd Gen,Accessories,Middle East,Saudi Arabia,Riyadh,Apple Regent Street,1,170.57,170.57,PayPal,Consumer
+540,2024-12-11,Apple Watch SE,Wearables,Middle East,Saudi Arabia,Riyadh,Apple Michigan Avenue,1,249.06,249.06,Apple Pay,Enterprise
+541,2024-07-19,iPad Pro,Tablets,Middle East,Saudi Arabia,Jeddah,Apple Dubai Mall,4,1144.76,4579.06,Debit Card,Consumer
+542,2024-11-08,iPhone 14,Smartphone,Europe,Germany,Munich,Apple Ginza,2,691.89,1383.77,Debit Card,Enterprise
+543,2024-06-21,iPad Pro,Tablets,Middle East,Saudi Arabia,Jeddah,Apple Orchard Road,3,1091.45,3274.35,PayPal,Consumer
+544,2024-01-06,Apple Watch Series 9,Wearables,Europe,Germany,Berlin,Apple Ginza,4,387.64,1550.55,Apple Pay,Enterprise
+545,2024-11-18,Apple Watch Series 9,Wearables,Asia,South Korea,Seoul,Apple Regent Street,1,388.38,388.38,Apple Pay,Consumer
+546,2024-08-01,iPad Air,Tablets,Asia,China,Shanghai,Apple Dubai Mall,1,628.37,628.37,Apple Pay,Consumer
+547,2024-11-11,Apple Watch SE,Wearables,North America,Canada,Toronto,Apple Eaton Centre,4,241.06,964.25,Apple Pay,Consumer
+548,2024-06-23,"MacBook Pro 14""",Computers,South America,Mexico,Mexico City,Apple Sydney,1,1933.22,1933.22,Credit Card,Premium
+549,2024-07-24,Apple Watch Series 9,Wearables,North America,Canada,Vancouver,Apple Dubai Mall,3,381.14,1143.42,Apple Pay,Education
+550,2024-02-17,iPhone 15,Smartphone,Europe,France,Marseille,Apple Eaton Centre,3,834.82,2504.45,Credit Card,Education
+551,2024-03-04,iPhone 15,Smartphone,South America,Brazil,Rio de Janeiro,Apple Union Square,1,762.2,762.2,Credit Card,Enterprise
+552,2024-01-18,iPhone 14,Smartphone,Middle East,UAE,Abu Dhabi,Apple Champs-Élysées,2,685.98,1371.96,Debit Card,Education
+553,2024-07-06,AirPods Pro,Accessories,South America,Brazil,Rio de Janeiro,Apple Union Square,1,249.88,249.88,PayPal,Education
+554,2024-05-20,AirPods 3rd Gen,Accessories,Asia,China,Hong Kong,Apple Fifth Avenue,1,184.68,184.68,Bank Transfer,Premium
+555,2024-07-26,"MacBook Pro 16""",Computers,South America,Mexico,Mexico City,Apple Pacific Centre,1,2443.96,2443.96,Debit Card,Enterprise
+556,2024-06-28,Apple Watch SE,Wearables,Middle East,UAE,Dubai,Apple Michigan Avenue,1,253.83,253.83,PayPal,Enterprise
+557,2024-04-15,"MacBook Pro 14""",Computers,Middle East,UAE,Dubai,Apple Regent Street,1,2045.76,2045.76,PayPal,Premium
+558,2024-08-11,iPhone 15,Smartphone,Middle East,Saudi Arabia,Jeddah,Apple Michigan Avenue,2,774.51,1549.01,Bank Transfer,Education
+559,2024-01-22,"MacBook Pro 16""",Computers,South America,Brazil,Rio de Janeiro,Apple Sydney,1,2476.83,2476.83,PayPal,Enterprise
+560,2024-11-30,iPad Mini,Tablets,South America,Brazil,Rio de Janeiro,Apple Regent Street,1,476.31,476.31,Apple Pay,Consumer
+561,2024-10-04,Apple Watch Series 9,Wearables,South America,Brazil,Rio de Janeiro,Apple Union Square,1,396.79,396.79,PayPal,Enterprise
+562,2024-06-07,iPhone 14,Smartphone,North America,USA,Miami,Apple Michigan Avenue,5,717.73,3588.67,Apple Pay,Education
+563,2024-05-17,iPhone 15,Smartphone,Europe,Italy,Milan,Apple Dubai Mall,4,814.11,3256.43,Credit Card,Enterprise
+564,2024-12-06,"MacBook Pro 16""",Computers,Europe,Germany,Hamburg,Apple Fifth Avenue,3,2621.94,7865.82,Credit Card,Enterprise
+565,2024-06-29,Apple Watch Series 9,Wearables,Europe,Germany,Hamburg,Apple IFC Mall,1,382.77,382.77,Apple Pay,Consumer
+566,2024-07-13,Apple Watch SE,Wearables,Asia,Japan,Kyoto,Apple Fifth Avenue,4,255.62,1022.48,Debit Card,Education
+567,2024-06-30,AirPods 3rd Gen,Accessories,South America,Mexico,Guadalajara,Apple Sydney,1,178.36,178.36,Debit Card,Education
+568,2024-08-12,AirPods Pro,Accessories,North America,Canada,Vancouver,Apple Ginza,2,241.84,483.67,Credit Card,Education
+569,2024-08-29,Apple Watch Ultra,Wearables,Asia,China,Shanghai,Apple IFC Mall,1,791.92,791.92,Credit Card,Education
+570,2024-12-11,iPad Mini,Tablets,Europe,UK,Manchester,Apple Regent Street,1,512.85,512.85,Apple Pay,Education
+571,2024-06-12,iPad Air,Tablets,Asia,Japan,Kyoto,Apple Sydney,5,572.07,2860.35,PayPal,Consumer
+572,2024-06-04,"MacBook Pro 16""",Computers,Middle East,UAE,Abu Dhabi,Apple Ginza,1,2396.51,2396.51,Debit Card,Education
+573,2024-06-10,Apple Watch Series 9,Wearables,South America,Mexico,Guadalajara,Apple Champs-Élysées,2,390.75,781.51,Bank Transfer,Education
+574,2024-08-04,iPhone 15 Pro,Smartphone,Middle East,Saudi Arabia,Jeddah,Apple Union Square,1,974.39,974.39,Bank Transfer,Enterprise
+575,2024-07-05,"MacBook Pro 14""",Computers,South America,Brazil,Rio de Janeiro,Apple Michigan Avenue,1,1902.3,1902.3,PayPal,Education
+576,2024-12-02,AirPods Pro,Accessories,Middle East,UAE,Abu Dhabi,Apple Pacific Centre,4,248.02,992.08,PayPal,Premium
+577,2024-09-17,AirPods Pro,Accessories,Asia,Australia,Sydney,Apple Orchard Road,1,243.99,243.99,Apple Pay,Consumer
+578,2024-09-01,AirPods Max,Accessories,Asia,China,Hong Kong,Apple Champs-Élysées,1,566.31,566.31,Bank Transfer,Enterprise
+579,2024-07-30,iPhone 14,Smartphone,Middle East,UAE,Dubai,Apple Champs-Élysées,3,690.89,2072.68,Debit Card,Consumer
+580,2024-11-20,Apple Watch SE,Wearables,Asia,China,Hong Kong,Apple Fifth Avenue,1,238.96,238.96,Apple Pay,Enterprise
+581,2024-02-23,iPad Air,Tablets,Asia,Singapore,Singapore,Apple Champs-Élysées,3,628.68,1886.05,Apple Pay,Consumer
+582,2024-02-27,"MacBook Pro 14""",Computers,North America,USA,Los Angeles,Apple Regent Street,2,1962.07,3924.13,Apple Pay,Consumer
+583,2024-05-10,Apple Watch SE,Wearables,Asia,Singapore,Singapore,Apple Eaton Centre,1,250.81,250.81,PayPal,Consumer
+584,2024-06-15,"MacBook Pro 16""",Computers,Asia,South Korea,Busan,Apple Eaton Centre,2,2420.69,4841.38,PayPal,Consumer
+585,2024-03-26,Apple Watch SE,Wearables,South America,Brazil,São Paulo,Apple Champs-Élysées,1,242.18,242.18,Debit Card,Premium
+586,2024-08-27,iPhone 14,Smartphone,Europe,France,Paris,Apple Pacific Centre,2,709.62,1419.24,Apple Pay,Education
+587,2024-07-25,AirPods Max,Accessories,Asia,Japan,Osaka,Apple Eaton Centre,4,550.27,2201.1,Apple Pay,Education
+588,2024-08-17,iPhone 15 Pro,Smartphone,Europe,Italy,Milan,Apple Michigan Avenue,3,1007.3,3021.91,Apple Pay,Enterprise
+589,2024-11-12,"MacBook Pro 16""",Computers,North America,Canada,Vancouver,Apple Champs-Élysées,1,2463.67,2463.67,Bank Transfer,Consumer
+590,2024-02-15,"MacBook Pro 14""",Computers,North America,USA,New York,Apple Champs-Élysées,1,2092.26,2092.26,PayPal,Enterprise
+591,2024-10-31,iPad Pro,Tablets,Europe,France,Lyon,Apple Sydney,1,1057.29,1057.29,PayPal,Enterprise
+592,2024-11-08,Apple Watch Series 9,Wearables,North America,Canada,Toronto,Apple Michigan Avenue,1,385.68,385.68,Apple Pay,Premium
+593,2024-12-13,iPhone 15 Pro,Smartphone,Asia,Australia,Sydney,Apple Orchard Road,5,949.07,4745.34,Apple Pay,Enterprise
+594,2024-06-29,MacBook Air,Computers,South America,Mexico,Guadalajara,Apple Dubai Mall,1,1124.33,1124.33,Credit Card,Premium
+595,2024-06-17,Apple Watch Series 9,Wearables,Europe,UK,Edinburgh,Apple Union Square,1,392.54,392.54,Credit Card,Education
+596,2024-07-06,iPhone 15,Smartphone,South America,Brazil,Rio de Janeiro,Apple Eaton Centre,2,776.22,1552.44,Debit Card,Consumer
+597,2024-07-07,iPhone 14,Smartphone,Middle East,Saudi Arabia,Riyadh,Apple Regent Street,1,669.59,669.59,Apple Pay,Education
+598,2024-11-29,iPad Mini,Tablets,Europe,Italy,Milan,Apple Michigan Avenue,1,495.65,495.65,PayPal,Consumer
+599,2024-01-17,iPad Pro,Tablets,Europe,UK,Manchester,Apple Champs-Élysées,1,1113.3,1113.3,PayPal,Premium
+600,2024-03-30,"MacBook Pro 14""",Computers,Middle East,UAE,Dubai,Apple IFC Mall,5,1964.15,9820.77,PayPal,Education
+601,2024-05-31,MacBook Air,Computers,Asia,Singapore,Singapore,Apple Union Square,1,1146.91,1146.91,Credit Card,Premium
+602,2024-02-02,Apple Watch Series 9,Wearables,Middle East,Saudi Arabia,Jeddah,Apple Eaton Centre,1,413.92,413.92,PayPal,Enterprise
+603,2024-01-29,iPhone 15 Pro,Smartphone,Asia,Singapore,Singapore,Apple Union Square,2,987.11,1974.21,Debit Card,Enterprise
+604,2024-05-14,Apple Watch Ultra,Wearables,Europe,Italy,Rome,Apple Ginza,4,825.8,3303.19,Debit Card,Enterprise
+605,2024-03-08,Apple Watch Ultra,Wearables,Europe,Italy,Milan,Apple Union Square,2,803.37,1606.74,PayPal,Enterprise
+606,2024-05-13,Apple Watch Series 9,Wearables,North America,USA,New York,Apple Ginza,1,417.27,417.27,PayPal,Education
+607,2024-08-07,iPhone 14,Smartphone,North America,USA,Los Angeles,Apple Champs-Élysées,1,706.29,706.29,Debit Card,Consumer
+608,2024-11-25,Apple Watch Ultra,Wearables,Europe,Spain,Valencia,Apple Michigan Avenue,1,775.21,775.21,Apple Pay,Premium
+609,2024-04-20,MacBook Air,Computers,Middle East,UAE,Dubai,Apple Michigan Avenue,1,1136.27,1136.27,PayPal,Enterprise
+610,2024-06-27,"MacBook Pro 14""",Computers,Asia,Singapore,Singapore,Apple Orchard Road,1,2012.2,2012.2,Credit Card,Education
+611,2024-11-29,AirPods Pro,Accessories,Middle East,UAE,Dubai,Apple Dubai Mall,1,241.16,241.16,Credit Card,Consumer
+612,2024-01-01,Apple Watch Series 9,Wearables,Asia,China,Beijing,Apple Union Square,1,384.12,384.12,Debit Card,Premium
+613,2024-11-29,iPad Mini,Tablets,South America,Brazil,São Paulo,Apple Eaton Centre,2,510.42,1020.83,Credit Card,Premium
+614,2024-07-08,AirPods Pro,Accessories,Asia,Australia,Melbourne,Apple Eaton Centre,1,253.24,253.24,Apple Pay,Education
+615,2024-06-03,AirPods Max,Accessories,North America,Canada,Toronto,Apple Regent Street,1,526.95,526.95,Apple Pay,Premium
+616,2024-01-06,iPad Air,Tablets,Middle East,UAE,Dubai,Apple Sydney,1,606.04,606.04,Debit Card,Premium
+617,2024-10-27,iPhone 15,Smartphone,South America,Brazil,São Paulo,Apple Union Square,2,810.78,1621.56,Apple Pay,Enterprise
+618,2024-11-04,Apple Watch Series 9,Wearables,Middle East,Saudi Arabia,Jeddah,Apple Sydney,2,408.56,817.13,Apple Pay,Premium
+619,2024-03-16,iPad Pro,Tablets,South America,Mexico,Guadalajara,Apple Eaton Centre,1,1101.41,1101.41,PayPal,Consumer
+620,2024-05-05,iPhone 15 Pro,Smartphone,Middle East,Saudi Arabia,Riyadh,Apple Union Square,2,994.97,1989.94,Bank Transfer,Premium
+621,2024-12-08,Apple Watch SE,Wearables,South America,Mexico,Mexico City,Apple Pacific Centre,5,236.83,1184.13,Bank Transfer,Premium
+622,2024-08-19,"MacBook Pro 14""",Computers,North America,USA,New York,Apple Champs-Élysées,1,2032.83,2032.83,Apple Pay,Enterprise
+623,2024-12-17,AirPods 3rd Gen,Accessories,Middle East,UAE,Abu Dhabi,Apple Dubai Mall,1,181.79,181.79,Apple Pay,Consumer
+624,2024-03-28,iPhone 14,Smartphone,Asia,Japan,Kyoto,Apple Union Square,1,712.93,712.93,Apple Pay,Consumer
+625,2024-09-01,AirPods Pro,Accessories,North America,USA,Miami,Apple IFC Mall,1,239.8,239.8,Credit Card,Enterprise
+626,2024-05-27,"MacBook Pro 14""",Computers,Middle East,Saudi Arabia,Riyadh,Apple Pacific Centre,1,1956.66,1956.66,Debit Card,Consumer
+627,2024-05-13,Apple Watch Ultra,Wearables,North America,USA,Miami,Apple Eaton Centre,1,834.27,834.27,Bank Transfer,Enterprise
+628,2024-08-12,iPad Air,Tablets,Asia,Japan,Tokyo,Apple Regent Street,1,600.28,600.28,Credit Card,Education
+629,2024-06-01,AirPods Pro,Accessories,North America,Canada,Vancouver,Apple Eaton Centre,1,244.42,244.42,Bank Transfer,Enterprise
+630,2024-07-29,iPad Mini,Tablets,Asia,China,Beijing,Apple IFC Mall,1,487.46,487.46,PayPal,Education
+631,2024-02-03,iPad Mini,Tablets,Middle East,UAE,Abu Dhabi,Apple Ginza,1,504.76,504.76,Apple Pay,Enterprise
+632,2024-10-13,Apple Watch Series 9,Wearables,Europe,UK,Manchester,Apple Pacific Centre,1,393.43,393.43,PayPal,Enterprise
+633,2024-06-16,iPad Mini,Tablets,Middle East,UAE,Abu Dhabi,Apple Regent Street,1,490.66,490.66,Credit Card,Education
+634,2024-03-09,iPad Pro,Tablets,Middle East,Saudi Arabia,Riyadh,Apple Union Square,3,1133.74,3401.21,PayPal,Premium
+635,2024-04-18,Apple Watch Series 9,Wearables,Middle East,UAE,Dubai,Apple Orchard Road,2,391.81,783.62,Credit Card,Premium
+636,2024-04-26,Apple Watch Ultra,Wearables,Asia,Singapore,Singapore,Apple IFC Mall,3,799.0,2397.01,PayPal,Consumer
+637,2024-03-14,Apple Watch SE,Wearables,North America,Canada,Montreal,Apple Union Square,2,259.75,519.5,Bank Transfer,Enterprise
+638,2024-06-05,AirPods 3rd Gen,Accessories,Europe,France,Paris,Apple Dubai Mall,1,172.77,172.77,PayPal,Education
+639,2024-07-01,iPhone 15 Pro,Smartphone,Middle East,Saudi Arabia,Riyadh,Apple IFC Mall,1,969.71,969.71,Apple Pay,Premium
+640,2024-04-08,iPhone 15,Smartphone,Asia,Australia,Melbourne,Apple Ginza,1,791.44,791.44,Apple Pay,Premium
+641,2024-11-13,iPad Air,Tablets,North America,Canada,Montreal,Apple Sydney,1,614.89,614.89,Credit Card,Enterprise
+642,2024-12-23,"MacBook Pro 16""",Computers,Asia,China,Beijing,Apple Champs-Élysées,1,2436.16,2436.16,PayPal,Education
+643,2024-03-23,Apple Watch Series 9,Wearables,North America,USA,Miami,Apple Dubai Mall,3,409.56,1228.68,Credit Card,Premium
+644,2024-08-02,MacBook Air,Computers,Middle East,Saudi Arabia,Riyadh,Apple Dubai Mall,1,1115.02,1115.02,Debit Card,Enterprise
+645,2024-04-24,AirPods 3rd Gen,Accessories,Europe,Italy,Florence,Apple Eaton Centre,3,172.51,517.52,Debit Card,Education
+646,2024-01-21,MacBook Air,Computers,Asia,South Korea,Busan,Apple Champs-Élysées,3,1058.52,3175.57,Credit Card,Consumer
+647,2024-07-09,iPad Air,Tablets,South America,Brazil,São Paulo,Apple Michigan Avenue,1,572.26,572.26,Apple Pay,Consumer
+648,2024-08-06,MacBook Air,Computers,South America,Brazil,São Paulo,Apple Eaton Centre,3,1104.38,3313.13,Debit Card,Enterprise
+649,2024-06-13,iPad Mini,Tablets,Asia,China,Hong Kong,Apple Ginza,5,520.58,2602.91,Apple Pay,Education
+650,2024-09-26,AirPods Max,Accessories,Middle East,UAE,Dubai,Apple Fifth Avenue,1,529.19,529.19,Debit Card,Premium
+651,2024-07-24,iPhone 15,Smartphone,Asia,Japan,Kyoto,Apple Orchard Road,2,809.36,1618.71,Bank Transfer,Consumer
+652,2024-12-19,iPad Air,Tablets,Middle East,Saudi Arabia,Jeddah,Apple Regent Street,1,627.5,627.5,PayPal,Premium
+653,2024-12-14,iPhone 15,Smartphone,Europe,Spain,Valencia,Apple Sydney,1,837.57,837.57,Debit Card,Consumer
+654,2024-12-22,AirPods 3rd Gen,Accessories,North America,Canada,Vancouver,Apple Regent Street,1,184.1,184.1,Apple Pay,Consumer
+655,2024-09-28,iPhone 15,Smartphone,Europe,UK,Edinburgh,Apple Fifth Avenue,1,762.73,762.73,PayPal,Consumer
+656,2024-12-15,MacBook Air,Computers,North America,USA,New York,Apple Ginza,1,1044.23,1044.23,Apple Pay,Consumer
+657,2024-06-13,iPad Air,Tablets,North America,USA,Los Angeles,Apple Sydney,1,602.22,602.22,Debit Card,Enterprise
+658,2024-06-05,MacBook Air,Computers,Asia,China,Shanghai,Apple Dubai Mall,4,1091.37,4365.46,PayPal,Education
+659,2024-05-04,iPhone 15,Smartphone,Asia,South Korea,Seoul,Apple Fifth Avenue,2,767.89,1535.77,PayPal,Education
+660,2024-03-10,AirPods 3rd Gen,Accessories,Europe,Germany,Munich,Apple Orchard Road,1,177.06,177.06,Debit Card,Premium
+661,2024-04-22,"MacBook Pro 14""",Computers,Asia,Singapore,Singapore,Apple IFC Mall,3,2053.61,6160.83,Apple Pay,Premium
+662,2024-09-06,iPhone 15,Smartphone,Europe,Italy,Florence,Apple Dubai Mall,1,837.9,837.9,Debit Card,Consumer
+663,2024-03-08,AirPods 3rd Gen,Accessories,North America,Canada,Vancouver,Apple Eaton Centre,1,179.62,179.62,Credit Card,Enterprise
+664,2024-11-27,Apple Watch Series 9,Wearables,Asia,South Korea,Busan,Apple Regent Street,3,379.07,1137.22,Credit Card,Premium
+665,2024-08-28,iPhone 15 Pro,Smartphone,Asia,China,Hong Kong,Apple Pacific Centre,1,986.7,986.7,Apple Pay,Education
+666,2024-05-05,AirPods Pro,Accessories,Asia,China,Shanghai,Apple Union Square,3,245.0,735.0,Debit Card,Enterprise
+667,2024-05-01,iPhone 15 Pro,Smartphone,North America,USA,Chicago,Apple Orchard Road,1,981.65,981.65,Debit Card,Enterprise
+668,2024-04-23,AirPods Pro,Accessories,North America,Canada,Toronto,Apple Champs-Élysées,1,260.34,260.34,Apple Pay,Consumer
+669,2024-01-16,Apple Watch SE,Wearables,Asia,Singapore,Singapore,Apple Champs-Élysées,1,249.29,249.29,Credit Card,Education
+670,2024-03-14,Apple Watch Ultra,Wearables,North America,USA,Chicago,Apple Dubai Mall,5,807.46,4037.32,PayPal,Enterprise
+671,2024-06-10,AirPods 3rd Gen,Accessories,Middle East,Saudi Arabia,Jeddah,Apple Dubai Mall,1,182.6,182.6,Debit Card,Consumer
+672,2024-03-21,"MacBook Pro 14""",Computers,South America,Mexico,Guadalajara,Apple Sydney,2,1930.19,3860.38,Bank Transfer,Premium
+673,2024-07-16,iPhone 14,Smartphone,Europe,Spain,Madrid,Apple Dubai Mall,5,678.72,3393.61,PayPal,Enterprise
+674,2024-10-08,iPhone 15 Pro,Smartphone,South America,Brazil,São Paulo,Apple Eaton Centre,4,963.16,3852.62,Debit Card,Consumer
+675,2024-12-01,iPad Pro,Tablets,Middle East,Saudi Arabia,Riyadh,Apple Michigan Avenue,1,1060.1,1060.1,Credit Card,Consumer
+676,2024-05-30,iPad Pro,Tablets,Asia,Japan,Kyoto,Apple Union Square,4,1134.2,4536.81,Bank Transfer,Premium
+677,2024-06-28,MacBook Air,Computers,Europe,Germany,Munich,Apple Regent Street,1,1070.63,1070.63,Credit Card,Premium
+678,2024-04-24,AirPods Max,Accessories,Europe,France,Paris,Apple Eaton Centre,2,532.15,1064.31,Apple Pay,Premium
+679,2024-05-09,AirPods Max,Accessories,South America,Mexico,Mexico City,Apple Sydney,2,522.94,1045.88,Debit Card,Consumer
+680,2024-07-21,Apple Watch Series 9,Wearables,North America,USA,Chicago,Apple Ginza,1,382.27,382.27,Credit Card,Consumer
+681,2024-08-03,"MacBook Pro 14""",Computers,North America,Canada,Toronto,Apple Pacific Centre,1,1960.56,1960.56,Credit Card,Consumer
+682,2024-04-26,iPhone 15,Smartphone,Europe,France,Paris,Apple Ginza,1,781.61,781.61,Debit Card,Consumer
+683,2024-09-30,Apple Watch Series 9,Wearables,South America,Brazil,São Paulo,Apple Union Square,1,414.57,414.57,Bank Transfer,Enterprise
+684,2024-05-11,iPhone 15,Smartphone,Asia,Australia,Melbourne,Apple Orchard Road,1,763.41,763.41,Bank Transfer,Enterprise
+685,2024-06-03,AirPods Max,Accessories,South America,Brazil,São Paulo,Apple Michigan Avenue,1,548.31,548.31,Debit Card,Premium
+686,2024-06-22,Apple Watch SE,Wearables,North America,Canada,Toronto,Apple Michigan Avenue,1,259.2,259.2,Credit Card,Education
+687,2024-03-16,iPhone 15 Pro,Smartphone,Asia,South Korea,Seoul,Apple Dubai Mall,3,1047.53,3142.58,PayPal,Consumer
+688,2024-04-27,iPad Pro,Tablets,South America,Mexico,Guadalajara,Apple Champs-Élysées,1,1049.68,1049.68,Debit Card,Premium
+689,2024-05-23,Apple Watch Series 9,Wearables,Middle East,UAE,Abu Dhabi,Apple Champs-Élysées,2,386.49,772.98,Credit Card,Premium
+690,2024-10-25,Apple Watch Series 9,Wearables,Europe,UK,Manchester,Apple Sydney,1,387.67,387.67,PayPal,Education
+691,2024-09-09,Apple Watch Series 9,Wearables,Asia,Japan,Osaka,Apple Pacific Centre,1,414.88,414.88,PayPal,Consumer
+692,2024-09-25,AirPods 3rd Gen,Accessories,Europe,Italy,Rome,Apple Ginza,1,170.07,170.07,Debit Card,Premium
+693,2024-03-27,AirPods Max,Accessories,Middle East,UAE,Dubai,Apple Pacific Centre,2,568.6,1137.19,Apple Pay,Enterprise
+694,2024-09-24,iPad Air,Tablets,Europe,Italy,Rome,Apple Michigan Avenue,1,607.89,607.89,Bank Transfer,Education
+695,2024-12-21,MacBook Air,Computers,Europe,Italy,Florence,Apple Champs-Élysées,1,1087.31,1087.31,Apple Pay,Premium
+696,2024-03-24,Apple Watch Ultra,Wearables,Middle East,UAE,Dubai,Apple Dubai Mall,3,773.58,2320.73,Apple Pay,Premium
+697,2024-03-09,iPad Pro,Tablets,Middle East,UAE,Dubai,Apple Michigan Avenue,1,1067.32,1067.32,Bank Transfer,Education
+698,2024-05-28,iPad Mini,Tablets,Asia,Japan,Tokyo,Apple Michigan Avenue,1,487.28,487.28,Debit Card,Education
+699,2024-10-20,Apple Watch SE,Wearables,Europe,UK,Manchester,Apple IFC Mall,1,256.27,256.27,Apple Pay,Consumer
+700,2024-09-24,iPad Pro,Tablets,South America,Mexico,Mexico City,Apple Union Square,1,1111.88,1111.88,PayPal,Premium
+701,2024-07-15,iPhone 14,Smartphone,Europe,Italy,Milan,Apple IFC Mall,1,677.47,677.47,Apple Pay,Enterprise
+702,2024-05-19,iPad Mini,Tablets,Europe,Germany,Hamburg,Apple Pacific Centre,1,483.91,483.91,PayPal,Education
+703,2024-01-08,"MacBook Pro 16""",Computers,Middle East,Saudi Arabia,Jeddah,Apple Champs-Élysées,2,2575.25,5150.5,PayPal,Premium
+704,2024-06-15,"MacBook Pro 16""",Computers,North America,USA,Los Angeles,Apple Champs-Élysées,3,2589.59,7768.76,PayPal,Premium
+705,2024-05-24,iPhone 14,Smartphone,Europe,France,Lyon,Apple Orchard Road,5,700.26,3501.29,Bank Transfer,Consumer
+706,2024-02-08,iPad Air,Tablets,North America,USA,Los Angeles,Apple Orchard Road,2,596.41,1192.83,PayPal,Education
+707,2024-10-24,Apple Watch Ultra,Wearables,Europe,UK,Manchester,Apple IFC Mall,1,768.57,768.57,Debit Card,Consumer
+708,2024-06-28,iPad Air,Tablets,Middle East,UAE,Abu Dhabi,Apple Dubai Mall,1,619.61,619.61,Debit Card,Enterprise
+709,2024-08-16,iPhone 15,Smartphone,South America,Brazil,São Paulo,Apple Union Square,1,811.29,811.29,Bank Transfer,Premium
+710,2024-06-20,"MacBook Pro 14""",Computers,Europe,Italy,Milan,Apple Eaton Centre,3,2011.92,6035.76,Credit Card,Enterprise
+711,2024-01-13,iPad Air,Tablets,North America,Canada,Vancouver,Apple Michigan Avenue,2,586.42,1172.85,Debit Card,Enterprise
+712,2024-09-07,MacBook Air,Computers,North America,Canada,Vancouver,Apple Ginza,1,1062.94,1062.94,Bank Transfer,Premium
+713,2024-06-30,AirPods Pro,Accessories,Asia,Singapore,Singapore,Apple Michigan Avenue,3,250.47,751.42,Debit Card,Enterprise
+714,2024-03-16,iPhone 15,Smartphone,Asia,Australia,Melbourne,Apple Union Square,1,807.25,807.25,Debit Card,Enterprise
+715,2024-10-08,Apple Watch Series 9,Wearables,South America,Mexico,Mexico City,Apple Orchard Road,2,411.05,822.1,Bank Transfer,Consumer
+716,2024-01-05,Apple Watch Ultra,Wearables,Europe,Italy,Milan,Apple Sydney,1,783.79,783.79,Debit Card,Education
+717,2024-05-06,iPad Pro,Tablets,South America,Mexico,Mexico City,Apple Regent Street,2,1096.16,2192.32,Apple Pay,Education
+718,2024-01-26,AirPods Pro,Accessories,Middle East,UAE,Dubai,Apple Ginza,1,240.23,240.23,Apple Pay,Enterprise
+719,2024-05-30,Apple Watch Ultra,Wearables,Middle East,UAE,Abu Dhabi,Apple Orchard Road,1,760.73,760.73,Credit Card,Education
+720,2024-03-30,"MacBook Pro 14""",Computers,North America,Canada,Toronto,Apple Pacific Centre,1,2025.9,2025.9,PayPal,Education
+721,2024-04-08,"MacBook Pro 14""",Computers,Europe,Germany,Berlin,Apple Dubai Mall,4,2034.31,8137.22,Apple Pay,Premium
+722,2024-11-19,"MacBook Pro 14""",Computers,North America,USA,New York,Apple Orchard Road,4,2098.45,8393.82,Apple Pay,Consumer
+723,2024-05-22,MacBook Air,Computers,Middle East,UAE,Dubai,Apple Champs-Élysées,1,1077.51,1077.51,PayPal,Enterprise
+724,2024-12-01,iPad Air,Tablets,South America,Brazil,São Paulo,Apple Pacific Centre,1,606.72,606.72,Credit Card,Consumer
+725,2024-11-04,iPhone 15,Smartphone,Asia,South Korea,Busan,Apple Sydney,1,819.47,819.47,PayPal,Consumer
+726,2024-09-11,AirPods Pro,Accessories,Europe,Italy,Rome,Apple Pacific Centre,1,243.75,243.75,Credit Card,Enterprise
+727,2024-12-17,Apple Watch Series 9,Wearables,North America,Canada,Montreal,Apple Eaton Centre,3,402.08,1206.24,Debit Card,Consumer
+728,2024-10-20,iPad Pro,Tablets,South America,Brazil,São Paulo,Apple Sydney,1,1072.23,1072.23,Credit Card,Education
+729,2024-08-19,iPad Pro,Tablets,Asia,South Korea,Busan,Apple Dubai Mall,4,1122.88,4491.51,Credit Card,Enterprise
+730,2024-01-27,"MacBook Pro 16""",Computers,South America,Mexico,Guadalajara,Apple Michigan Avenue,2,2394.85,4789.69,Credit Card,Premium
+731,2024-05-03,iPhone 15 Pro,Smartphone,South America,Brazil,São Paulo,Apple Orchard Road,2,1036.36,2072.73,Debit Card,Enterprise
+732,2024-09-02,"MacBook Pro 14""",Computers,South America,Brazil,São Paulo,Apple Pacific Centre,1,1979.35,1979.35,Credit Card,Premium
+733,2024-02-06,AirPods Pro,Accessories,Asia,Singapore,Singapore,Apple Union Square,1,249.33,249.33,PayPal,Education
+734,2024-01-19,AirPods Pro,Accessories,South America,Brazil,São Paulo,Apple Pacific Centre,1,245.91,245.91,Debit Card,Consumer
+735,2024-02-24,Apple Watch Series 9,Wearables,Europe,UK,London,Apple Dubai Mall,3,397.42,1192.25,Apple Pay,Education
+736,2024-05-07,iPhone 14,Smartphone,Middle East,Saudi Arabia,Riyadh,Apple Pacific Centre,5,708.5,3542.5,Bank Transfer,Consumer
+737,2024-09-21,iPhone 15 Pro,Smartphone,Middle East,Saudi Arabia,Riyadh,Apple Regent Street,2,991.84,1983.68,Apple Pay,Education
+738,2024-11-01,iPhone 15 Pro,Smartphone,Middle East,Saudi Arabia,Jeddah,Apple Fifth Avenue,1,1028.17,1028.17,PayPal,Premium
+739,2024-04-17,Apple Watch Series 9,Wearables,North America,USA,Los Angeles,Apple Eaton Centre,2,416.03,832.07,PayPal,Education
+740,2024-06-30,iPad Mini,Tablets,South America,Brazil,Rio de Janeiro,Apple Ginza,1,488.15,488.15,Bank Transfer,Enterprise
+741,2024-12-18,iPhone 15 Pro,Smartphone,Middle East,UAE,Abu Dhabi,Apple Ginza,1,993.76,993.76,Credit Card,Enterprise
+742,2024-08-24,MacBook Air,Computers,Middle East,UAE,Abu Dhabi,Apple Regent Street,1,1139.63,1139.63,Apple Pay,Consumer
+743,2024-03-27,iPad Mini,Tablets,North America,USA,Los Angeles,Apple Michigan Avenue,4,478.61,1914.43,Debit Card,Premium
+744,2024-11-10,"MacBook Pro 16""",Computers,North America,USA,Chicago,Apple Union Square,1,2547.21,2547.21,Credit Card,Consumer
+745,2024-09-02,Apple Watch Ultra,Wearables,North America,USA,San Francisco,Apple Orchard Road,1,837.15,837.15,Bank Transfer,Premium
+746,2024-07-22,"MacBook Pro 16""",Computers,Middle East,UAE,Abu Dhabi,Apple Michigan Avenue,1,2447.88,2447.88,Debit Card,Consumer
+747,2024-07-29,Apple Watch SE,Wearables,Europe,UK,Manchester,Apple Orchard Road,3,236.89,710.67,Credit Card,Enterprise
+748,2024-10-14,Apple Watch SE,Wearables,North America,USA,San Francisco,Apple Orchard Road,1,249.35,249.35,Apple Pay,Enterprise
+749,2024-12-30,Apple Watch SE,Wearables,South America,Brazil,São Paulo,Apple Fifth Avenue,2,242.43,484.85,Apple Pay,Enterprise
+750,2024-04-05,AirPods 3rd Gen,Accessories,South America,Mexico,Guadalajara,Apple Eaton Centre,2,181.76,363.53,Credit Card,Consumer
+751,2024-03-22,Apple Watch SE,Wearables,Europe,Italy,Rome,Apple Pacific Centre,1,246.37,246.37,Apple Pay,Consumer
+752,2024-07-18,AirPods Max,Accessories,Asia,South Korea,Busan,Apple Ginza,1,559.44,559.44,PayPal,Education
+753,2024-07-22,iPhone 15,Smartphone,Asia,Australia,Sydney,Apple Champs-Élysées,1,824.71,824.71,Credit Card,Consumer
+754,2024-05-14,iPad Mini,Tablets,South America,Mexico,Mexico City,Apple Pacific Centre,1,489.49,489.49,PayPal,Enterprise
+755,2024-05-25,iPhone 15,Smartphone,Europe,Italy,Rome,Apple Fifth Avenue,1,813.48,813.48,Apple Pay,Education
+756,2024-04-28,iPhone 15,Smartphone,Europe,Spain,Barcelona,Apple Michigan Avenue,1,826.3,826.3,Debit Card,Consumer
+757,2024-01-03,MacBook Air,Computers,Europe,France,Marseille,Apple Pacific Centre,1,1068.24,1068.24,Bank Transfer,Education
+758,2024-11-17,"MacBook Pro 16""",Computers,Europe,UK,Manchester,Apple Michigan Avenue,1,2549.99,2549.99,Apple Pay,Consumer
+759,2024-07-29,"MacBook Pro 14""",Computers,South America,Mexico,Mexico City,Apple Michigan Avenue,3,1947.36,5842.07,Apple Pay,Enterprise
+760,2024-02-25,Apple Watch SE,Wearables,North America,Canada,Toronto,Apple Regent Street,2,236.86,473.73,Credit Card,Education
+761,2024-08-19,iPhone 15 Pro,Smartphone,Asia,China,Beijing,Apple Union Square,1,989.93,989.93,PayPal,Education
+762,2024-06-19,Apple Watch Ultra,Wearables,Europe,France,Marseille,Apple Michigan Avenue,1,794.71,794.71,Bank Transfer,Education
+763,2024-04-12,iPad Pro,Tablets,Middle East,UAE,Dubai,Apple Ginza,1,1102.46,1102.46,Debit Card,Consumer
+764,2024-02-26,iPad Air,Tablets,Middle East,UAE,Dubai,Apple Orchard Road,1,603.75,603.75,Bank Transfer,Education
+765,2024-12-27,"MacBook Pro 16""",Computers,Europe,France,Marseille,Apple Eaton Centre,1,2448.13,2448.13,Credit Card,Enterprise
+766,2024-01-20,iPad Mini,Tablets,Europe,Germany,Berlin,Apple Pacific Centre,1,520.34,520.34,Apple Pay,Premium
+767,2024-03-31,AirPods 3rd Gen,Accessories,Europe,Italy,Milan,Apple Pacific Centre,1,178.99,178.99,Credit Card,Education
+768,2024-10-15,MacBook Air,Computers,Europe,Spain,Valencia,Apple Union Square,2,1053.0,2106.0,Apple Pay,Enterprise
+769,2024-11-15,Apple Watch Series 9,Wearables,Europe,France,Lyon,Apple Dubai Mall,1,383.21,383.21,Apple Pay,Premium
+770,2024-06-04,iPhone 15,Smartphone,Middle East,UAE,Abu Dhabi,Apple Eaton Centre,4,793.86,3175.44,Bank Transfer,Education
+771,2024-10-06,AirPods Pro,Accessories,Asia,Japan,Tokyo,Apple Eaton Centre,1,247.63,247.63,Bank Transfer,Enterprise
+772,2024-02-07,"MacBook Pro 14""",Computers,South America,Mexico,Mexico City,Apple IFC Mall,1,2013.43,2013.43,Bank Transfer,Premium
+773,2024-05-04,Apple Watch Series 9,Wearables,Asia,Australia,Melbourne,Apple Michigan Avenue,2,403.11,806.21,Apple Pay,Consumer
+774,2024-12-23,Apple Watch Series 9,Wearables,Asia,South Korea,Seoul,Apple Ginza,1,392.93,392.93,Debit Card,Enterprise
+775,2024-06-12,Apple Watch Ultra,Wearables,Europe,France,Paris,Apple Michigan Avenue,1,779.43,779.43,Credit Card,Consumer
+776,2024-02-12,MacBook Air,Computers,South America,Brazil,São Paulo,Apple Michigan Avenue,1,1051.11,1051.11,Bank Transfer,Education
+777,2024-03-09,iPad Mini,Tablets,Europe,Germany,Munich,Apple IFC Mall,1,493.91,493.91,Bank Transfer,Consumer
+778,2024-11-21,iPhone 15 Pro,Smartphone,Asia,Japan,Tokyo,Apple IFC Mall,2,1015.21,2030.41,PayPal,Premium
+779,2024-03-12,"MacBook Pro 14""",Computers,Asia,China,Beijing,Apple Michigan Avenue,3,2077.13,6231.38,Apple Pay,Consumer
+780,2024-11-17,MacBook Air,Computers,Asia,Japan,Osaka,Apple Eaton Centre,1,1147.1,1147.1,Credit Card,Consumer
+781,2024-07-17,MacBook Air,Computers,Middle East,Saudi Arabia,Riyadh,Apple Champs-Élysées,3,1127.58,3382.73,PayPal,Education
+782,2024-02-27,AirPods 3rd Gen,Accessories,Europe,UK,London,Apple Sydney,1,183.59,183.59,Bank Transfer,Premium
+783,2024-03-20,"MacBook Pro 16""",Computers,South America,Brazil,Rio de Janeiro,Apple Ginza,1,2520.94,2520.94,Bank Transfer,Education
+784,2024-04-11,Apple Watch SE,Wearables,Middle East,UAE,Dubai,Apple Sydney,1,261.32,261.32,Bank Transfer,Premium
+785,2024-01-29,iPhone 14,Smartphone,North America,USA,San Francisco,Apple Pacific Centre,2,712.07,1424.13,Debit Card,Enterprise
+786,2024-02-11,"MacBook Pro 16""",Computers,North America,USA,Los Angeles,Apple Union Square,2,2588.61,5177.23,Credit Card,Enterprise
+787,2024-11-25,Apple Watch Series 9,Wearables,South America,Brazil,Rio de Janeiro,Apple Michigan Avenue,2,391.91,783.82,Bank Transfer,Premium
+788,2024-11-09,Apple Watch Series 9,Wearables,Europe,Germany,Munich,Apple Ginza,1,416.97,416.97,PayPal,Consumer
+789,2024-07-27,Apple Watch Ultra,Wearables,North America,USA,San Francisco,Apple Sydney,1,815.96,815.96,Apple Pay,Education
+790,2024-10-27,Apple Watch Series 9,Wearables,Middle East,UAE,Abu Dhabi,Apple IFC Mall,2,399.02,798.05,Apple Pay,Consumer
+791,2024-08-30,MacBook Air,Computers,North America,Canada,Montreal,Apple Fifth Avenue,2,1078.06,2156.12,Apple Pay,Consumer
+792,2024-03-15,iPhone 15,Smartphone,Europe,UK,Manchester,Apple Union Square,1,779.21,779.21,Apple Pay,Education
+793,2024-01-07,iPhone 15 Pro,Smartphone,Europe,UK,London,Apple Union Square,4,965.91,3863.63,PayPal,Education
+794,2024-04-26,"MacBook Pro 16""",Computers,South America,Brazil,São Paulo,Apple Pacific Centre,1,2449.95,2449.95,PayPal,Consumer
+795,2024-08-04,Apple Watch Series 9,Wearables,Asia,China,Beijing,Apple Michigan Avenue,1,404.72,404.72,PayPal,Consumer
+796,2024-06-29,"MacBook Pro 16""",Computers,South America,Mexico,Guadalajara,Apple Regent Street,3,2462.53,7387.59,Credit Card,Premium
+797,2024-01-22,iPhone 15,Smartphone,Middle East,Saudi Arabia,Jeddah,Apple Pacific Centre,2,780.31,1560.62,Debit Card,Consumer
+798,2024-09-29,Apple Watch SE,Wearables,Asia,China,Hong Kong,Apple Fifth Avenue,1,253.78,253.78,Apple Pay,Consumer
+799,2024-04-08,Apple Watch Series 9,Wearables,Europe,France,Lyon,Apple Michigan Avenue,1,413.25,413.25,Debit Card,Education
+800,2024-05-19,AirPods Pro,Accessories,South America,Brazil,São Paulo,Apple Fifth Avenue,1,247.74,247.74,Apple Pay,Consumer
+801,2024-03-09,AirPods Pro,Accessories,Europe,UK,London,Apple Fifth Avenue,1,258.35,258.35,Credit Card,Consumer
+802,2024-04-23,AirPods 3rd Gen,Accessories,North America,USA,Los Angeles,Apple Regent Street,2,172.67,345.33,PayPal,Enterprise
+803,2024-07-26,Apple Watch Ultra,Wearables,Asia,South Korea,Busan,Apple IFC Mall,1,760.4,760.4,Debit Card,Premium
+804,2024-09-11,"MacBook Pro 16""",Computers,Europe,UK,London,Apple Champs-Élysées,1,2477.44,2477.44,Credit Card,Education
+805,2024-02-21,"MacBook Pro 14""",Computers,South America,Mexico,Guadalajara,Apple Ginza,1,2094.44,2094.44,Credit Card,Premium
+806,2024-02-01,iPhone 15 Pro,Smartphone,Asia,Japan,Tokyo,Apple Michigan Avenue,1,975.09,975.09,Credit Card,Premium
+807,2024-03-02,iPhone 14,Smartphone,South America,Brazil,São Paulo,Apple Dubai Mall,5,721.43,3607.14,Credit Card,Premium
+808,2024-09-02,iPad Mini,Tablets,South America,Mexico,Mexico City,Apple Pacific Centre,2,486.21,972.42,Bank Transfer,Premium
+809,2024-03-09,Apple Watch Series 9,Wearables,Europe,Italy,Rome,Apple Orchard Road,1,393.46,393.46,Bank Transfer,Premium
+810,2024-03-11,AirPods Max,Accessories,Asia,Singapore,Singapore,Apple Michigan Avenue,1,566.35,566.35,Bank Transfer,Premium
+811,2024-10-25,Apple Watch SE,Wearables,Europe,UK,Manchester,Apple Pacific Centre,1,251.6,251.6,Debit Card,Premium
+812,2024-05-25,"MacBook Pro 14""",Computers,South America,Mexico,Guadalajara,Apple Pacific Centre,3,1946.32,5838.96,Debit Card,Enterprise
+813,2024-09-11,AirPods Pro,Accessories,South America,Mexico,Guadalajara,Apple Union Square,1,260.45,260.45,PayPal,Education
+814,2024-10-07,iPhone 14,Smartphone,Middle East,UAE,Dubai,Apple Orchard Road,2,730.14,1460.28,Debit Card,Enterprise
+815,2024-07-08,iPhone 14,Smartphone,Europe,Germany,Berlin,Apple Dubai Mall,2,674.22,1348.44,Bank Transfer,Enterprise
+816,2024-04-06,AirPods Max,Accessories,Europe,Italy,Milan,Apple IFC Mall,2,567.11,1134.23,Debit Card,Consumer
+817,2024-01-22,AirPods Max,Accessories,Middle East,Saudi Arabia,Riyadh,Apple Eaton Centre,1,548.34,548.34,Debit Card,Consumer
+818,2024-10-12,Apple Watch Series 9,Wearables,Middle East,UAE,Dubai,Apple IFC Mall,1,384.26,384.26,Debit Card,Consumer
+819,2024-05-13,AirPods 3rd Gen,Accessories,Europe,Germany,Munich,Apple Eaton Centre,2,181.13,362.25,Credit Card,Enterprise
+820,2024-07-04,MacBook Air,Computers,Europe,Italy,Florence,Apple Champs-Élysées,3,1094.22,3282.66,Debit Card,Consumer
+821,2024-05-20,"MacBook Pro 14""",Computers,North America,Canada,Toronto,Apple Dubai Mall,1,1931.95,1931.95,Debit Card,Consumer
+822,2024-09-25,iPhone 15,Smartphone,Asia,Japan,Osaka,Apple Michigan Avenue,1,765.78,765.78,Apple Pay,Premium
+823,2024-09-03,iPhone 15 Pro,Smartphone,Asia,South Korea,Busan,Apple Dubai Mall,1,1045.18,1045.18,Apple Pay,Enterprise
+824,2024-04-30,AirPods 3rd Gen,Accessories,South America,Brazil,São Paulo,Apple Eaton Centre,1,177.44,177.44,PayPal,Consumer
+825,2024-10-23,iPhone 15,Smartphone,Middle East,UAE,Abu Dhabi,Apple Orchard Road,1,817.59,817.59,Debit Card,Premium
+826,2024-01-29,iPhone 14,Smartphone,South America,Brazil,Rio de Janeiro,Apple Sydney,1,725.52,725.52,Apple Pay,Premium
+827,2024-05-31,iPad Pro,Tablets,Europe,France,Lyon,Apple Michigan Avenue,2,1125.6,2251.2,Credit Card,Consumer
+828,2024-11-18,MacBook Air,Computers,Europe,Germany,Berlin,Apple Champs-Élysées,2,1133.17,2266.34,Bank Transfer,Enterprise
+829,2024-12-27,Apple Watch Ultra,Wearables,South America,Mexico,Guadalajara,Apple Fifth Avenue,4,766.03,3064.14,PayPal,Enterprise
+830,2024-03-16,iPad Pro,Tablets,South America,Mexico,Guadalajara,Apple Champs-Élysées,5,1060.3,5301.49,Bank Transfer,Enterprise
+831,2024-03-09,iPhone 14,Smartphone,Asia,China,Shanghai,Apple Orchard Road,5,683.17,3415.85,Bank Transfer,Enterprise
+832,2024-08-07,Apple Watch SE,Wearables,Asia,China,Shanghai,Apple Orchard Road,1,259.76,259.76,Bank Transfer,Consumer
+833,2024-02-27,"MacBook Pro 14""",Computers,South America,Brazil,São Paulo,Apple Regent Street,1,1913.49,1913.49,Debit Card,Consumer
+834,2024-04-30,Apple Watch Series 9,Wearables,North America,USA,Chicago,Apple Fifth Avenue,1,413.36,413.36,Apple Pay,Education
+835,2024-02-17,iPad Mini,Tablets,North America,USA,Chicago,Apple Pacific Centre,2,503.24,1006.48,Bank Transfer,Consumer
+836,2024-06-23,MacBook Air,Computers,Asia,Australia,Sydney,Apple Regent Street,1,1094.05,1094.05,Credit Card,Education
+837,2024-08-03,iPhone 15,Smartphone,South America,Mexico,Guadalajara,Apple Union Square,1,782.77,782.77,Debit Card,Enterprise
+838,2024-03-29,AirPods 3rd Gen,Accessories,South America,Brazil,Rio de Janeiro,Apple Union Square,1,181.08,181.08,PayPal,Enterprise
+839,2024-01-15,"MacBook Pro 16""",Computers,North America,USA,Miami,Apple Champs-Élysées,1,2564.76,2564.76,Debit Card,Consumer
+840,2024-05-25,iPad Pro,Tablets,South America,Mexico,Mexico City,Apple Pacific Centre,1,1093.65,1093.65,Debit Card,Premium
+841,2024-01-29,iPad Pro,Tablets,Middle East,Saudi Arabia,Riyadh,Apple Fifth Avenue,1,1065.11,1065.11,Credit Card,Enterprise
+842,2024-07-04,AirPods 3rd Gen,Accessories,Middle East,Saudi Arabia,Jeddah,Apple Michigan Avenue,2,176.15,352.31,Debit Card,Enterprise
+843,2024-08-25,iPhone 15 Pro,Smartphone,Europe,UK,London,Apple Champs-Élysées,1,972.86,972.86,Apple Pay,Education
+844,2024-04-10,iPhone 15,Smartphone,South America,Brazil,Rio de Janeiro,Apple IFC Mall,1,834.9,834.9,Apple Pay,Education
+845,2024-08-05,AirPods Pro,Accessories,Middle East,Saudi Arabia,Riyadh,Apple Fifth Avenue,1,244.6,244.6,Debit Card,Education
+846,2024-01-12,iPhone 14,Smartphone,North America,USA,Los Angeles,Apple Eaton Centre,1,682.1,682.1,Credit Card,Premium
+847,2024-10-09,"MacBook Pro 16""",Computers,North America,Canada,Toronto,Apple Pacific Centre,2,2433.42,4866.83,PayPal,Premium
+848,2024-04-12,iPhone 15 Pro,Smartphone,North America,USA,Miami,Apple Union Square,1,995.26,995.26,Credit Card,Premium
+849,2024-06-30,iPad Pro,Tablets,Europe,France,Marseille,Apple IFC Mall,1,1101.11,1101.11,PayPal,Education
+850,2024-01-24,AirPods Pro,Accessories,Asia,China,Hong Kong,Apple Regent Street,1,243.27,243.27,Debit Card,Consumer
+851,2024-08-14,iPad Air,Tablets,South America,Mexico,Guadalajara,Apple Champs-Élysées,1,575.86,575.86,Apple Pay,Enterprise
+852,2024-09-23,AirPods Max,Accessories,North America,Canada,Montreal,Apple Regent Street,2,527.87,1055.74,Apple Pay,Consumer
+853,2024-06-13,AirPods Max,Accessories,Middle East,Saudi Arabia,Riyadh,Apple IFC Mall,1,555.62,555.62,PayPal,Education
+854,2024-08-01,iPhone 15,Smartphone,Asia,Japan,Kyoto,Apple Eaton Centre,1,837.44,837.44,Bank Transfer,Enterprise
+855,2024-08-16,iPhone 15,Smartphone,Europe,Germany,Hamburg,Apple Sydney,4,805.37,3221.49,PayPal,Enterprise
+856,2024-06-29,iPad Pro,Tablets,South America,Brazil,São Paulo,Apple Sydney,2,1123.54,2247.09,Apple Pay,Education
+857,2024-03-26,"MacBook Pro 14""",Computers,South America,Mexico,Guadalajara,Apple Union Square,2,2076.71,4153.42,PayPal,Premium
+858,2024-01-09,iPad Mini,Tablets,Asia,South Korea,Seoul,Apple Ginza,1,476.69,476.69,Apple Pay,Consumer
+859,2024-12-02,Apple Watch Ultra,Wearables,Europe,France,Paris,Apple Union Square,1,806.47,806.47,Credit Card,Education
+860,2024-05-14,AirPods 3rd Gen,Accessories,South America,Mexico,Guadalajara,Apple Fifth Avenue,1,176.5,176.5,Apple Pay,Premium
+861,2024-12-09,"MacBook Pro 14""",Computers,Europe,France,Lyon,Apple Champs-Élysées,1,2083.08,2083.08,PayPal,Consumer
+862,2024-12-28,Apple Watch SE,Wearables,South America,Brazil,São Paulo,Apple Ginza,4,252.74,1010.97,Apple Pay,Education
+863,2024-04-02,Apple Watch Series 9,Wearables,South America,Brazil,Rio de Janeiro,Apple Union Square,2,406.25,812.51,Bank Transfer,Consumer
+864,2024-04-09,"MacBook Pro 14""",Computers,North America,USA,Los Angeles,Apple Orchard Road,1,1973.68,1973.68,Credit Card,Consumer
+865,2024-08-13,iPad Pro,Tablets,South America,Brazil,Rio de Janeiro,Apple Dubai Mall,1,1113.09,1113.09,Debit Card,Premium
+866,2024-05-11,Apple Watch Series 9,Wearables,Europe,Italy,Milan,Apple Dubai Mall,1,379.21,379.21,PayPal,Enterprise
+867,2024-09-06,"MacBook Pro 16""",Computers,Asia,Australia,Sydney,Apple Orchard Road,3,2597.45,7792.36,Bank Transfer,Enterprise
+868,2024-10-16,Apple Watch Series 9,Wearables,Asia,Japan,Tokyo,Apple Michigan Avenue,2,385.7,771.41,Debit Card,Consumer
+869,2024-03-18,Apple Watch SE,Wearables,North America,USA,Chicago,Apple Orchard Road,1,246.23,246.23,Apple Pay,Enterprise
+870,2024-10-10,"MacBook Pro 14""",Computers,Asia,China,Shanghai,Apple Michigan Avenue,3,1930.36,5791.07,Credit Card,Premium
+871,2024-09-14,Apple Watch SE,Wearables,Asia,South Korea,Busan,Apple Pacific Centre,2,245.27,490.53,Credit Card,Enterprise
+872,2024-09-14,AirPods Pro,Accessories,North America,Canada,Vancouver,Apple Pacific Centre,2,242.92,485.83,PayPal,Consumer
+873,2024-04-20,MacBook Air,Computers,South America,Brazil,Rio de Janeiro,Apple Michigan Avenue,1,1050.91,1050.91,PayPal,Consumer
+874,2024-02-09,"MacBook Pro 14""",Computers,North America,Canada,Toronto,Apple IFC Mall,1,1927.59,1927.59,Apple Pay,Premium
+875,2024-07-17,AirPods Max,Accessories,Middle East,Saudi Arabia,Jeddah,Apple Union Square,3,540.78,1622.33,Debit Card,Premium
+876,2024-10-04,Apple Watch Ultra,Wearables,Asia,South Korea,Seoul,Apple Champs-Élysées,1,799.31,799.31,PayPal,Education
+877,2024-02-03,AirPods Max,Accessories,South America,Brazil,São Paulo,Apple Fifth Avenue,1,558.37,558.37,Bank Transfer,Consumer
+878,2024-10-15,Apple Watch SE,Wearables,North America,USA,Miami,Apple Ginza,1,238.65,238.65,Apple Pay,Consumer
+879,2024-05-20,iPhone 15 Pro,Smartphone,South America,Brazil,São Paulo,Apple Orchard Road,1,1044.03,1044.03,Apple Pay,Enterprise
+880,2024-01-12,Apple Watch Series 9,Wearables,North America,USA,New York,Apple Sydney,2,400.52,801.04,Bank Transfer,Premium
+881,2024-07-24,iPad Pro,Tablets,North America,Canada,Vancouver,Apple Regent Street,4,1117.11,4468.45,Apple Pay,Consumer
+882,2024-06-28,AirPods Max,Accessories,Asia,Australia,Melbourne,Apple Dubai Mall,1,575.35,575.35,Credit Card,Premium
+883,2024-04-02,Apple Watch Ultra,Wearables,South America,Brazil,Rio de Janeiro,Apple Eaton Centre,1,832.62,832.62,Debit Card,Education
+884,2024-08-20,iPhone 15,Smartphone,Middle East,UAE,Dubai,Apple Dubai Mall,1,796.26,796.26,Credit Card,Premium
+885,2024-05-20,AirPods Max,Accessories,Middle East,Saudi Arabia,Jeddah,Apple Pacific Centre,1,530.57,530.57,Credit Card,Education
+886,2024-06-18,Apple Watch SE,Wearables,Middle East,UAE,Dubai,Apple Orchard Road,2,253.42,506.84,Credit Card,Consumer
+887,2024-03-25,AirPods Pro,Accessories,Middle East,Saudi Arabia,Jeddah,Apple Eaton Centre,1,240.87,240.87,Apple Pay,Consumer
+888,2024-04-08,AirPods Max,Accessories,Asia,Singapore,Singapore,Apple Dubai Mall,1,552.57,552.57,Credit Card,Education
+889,2024-03-31,iPhone 15 Pro,Smartphone,North America,Canada,Vancouver,Apple Eaton Centre,1,993.07,993.07,Debit Card,Consumer
+890,2024-03-04,Apple Watch Ultra,Wearables,Middle East,Saudi Arabia,Jeddah,Apple Fifth Avenue,2,800.81,1601.63,Bank Transfer,Consumer
+891,2024-04-14,"MacBook Pro 16""",Computers,Europe,Italy,Florence,Apple Fifth Avenue,1,2451.77,2451.77,PayPal,Education
+892,2024-12-10,iPad Pro,Tablets,Europe,Germany,Hamburg,Apple Regent Street,1,1072.87,1072.87,Credit Card,Premium
+893,2024-07-28,iPad Air,Tablets,North America,Canada,Vancouver,Apple IFC Mall,1,613.06,613.06,Debit Card,Education
+894,2024-04-30,Apple Watch SE,Wearables,Middle East,Saudi Arabia,Jeddah,Apple Eaton Centre,2,245.98,491.96,Debit Card,Enterprise
+895,2024-08-08,MacBook Air,Computers,Asia,Australia,Sydney,Apple Dubai Mall,1,1153.89,1153.89,Credit Card,Enterprise
+896,2024-05-02,MacBook Air,Computers,South America,Mexico,Guadalajara,Apple Dubai Mall,1,1047.66,1047.66,Credit Card,Consumer
+897,2024-05-10,Apple Watch Ultra,Wearables,South America,Mexico,Mexico City,Apple Pacific Centre,2,829.62,1659.23,Apple Pay,Premium
+898,2024-12-20,"MacBook Pro 16""",Computers,Europe,Spain,Valencia,Apple Eaton Centre,1,2610.6,2610.6,Debit Card,Enterprise
+899,2024-12-23,MacBook Air,Computers,Asia,China,Shanghai,Apple Union Square,2,1112.41,2224.82,PayPal,Consumer
+900,2024-02-09,iPhone 14,Smartphone,Asia,Japan,Tokyo,Apple Michigan Avenue,1,731.88,731.88,Debit Card,Education
+901,2024-06-19,iPad Pro,Tablets,North America,USA,San Francisco,Apple IFC Mall,2,1070.23,2140.46,Credit Card,Education
+902,2024-10-03,"MacBook Pro 14""",Computers,South America,Mexico,Mexico City,Apple Sydney,1,2003.86,2003.86,Bank Transfer,Premium
+903,2024-11-22,iPhone 15 Pro,Smartphone,Europe,France,Paris,Apple Pacific Centre,2,977.7,1955.4,PayPal,Consumer
+904,2024-05-20,iPad Pro,Tablets,Asia,Japan,Tokyo,Apple Dubai Mall,1,1140.11,1140.11,Debit Card,Enterprise
+905,2024-11-26,AirPods Max,Accessories,Middle East,Saudi Arabia,Jeddah,Apple Union Square,1,551.04,551.04,Debit Card,Enterprise
+906,2024-07-14,Apple Watch Ultra,Wearables,Middle East,Saudi Arabia,Riyadh,Apple Dubai Mall,1,838.84,838.84,PayPal,Education
+907,2024-01-19,iPad Pro,Tablets,Middle East,UAE,Abu Dhabi,Apple Sydney,4,1145.84,4583.35,Bank Transfer,Premium
+908,2024-03-11,iPad Mini,Tablets,Asia,South Korea,Seoul,Apple Eaton Centre,1,504.34,504.34,Debit Card,Premium
+909,2024-04-22,iPad Mini,Tablets,Middle East,UAE,Abu Dhabi,Apple Dubai Mall,5,508.8,2543.99,Credit Card,Enterprise
+910,2024-09-18,iPhone 15,Smartphone,Europe,Italy,Florence,Apple Fifth Avenue,1,797.7,797.7,Credit Card,Education
+911,2024-07-13,iPhone 15,Smartphone,North America,Canada,Montreal,Apple Eaton Centre,1,759.18,759.18,PayPal,Consumer
+912,2024-11-04,iPhone 15 Pro,Smartphone,Middle East,UAE,Abu Dhabi,Apple Dubai Mall,2,968.02,1936.05,PayPal,Consumer
+913,2024-07-23,MacBook Air,Computers,Middle East,UAE,Dubai,Apple IFC Mall,1,1044.69,1044.69,PayPal,Consumer
+914,2024-05-28,AirPods 3rd Gen,Accessories,South America,Brazil,Rio de Janeiro,Apple Orchard Road,1,185.83,185.83,Credit Card,Premium
+915,2024-03-19,MacBook Air,Computers,South America,Mexico,Guadalajara,Apple Champs-Élysées,1,1095.78,1095.78,Credit Card,Consumer
+916,2024-08-05,AirPods Pro,Accessories,Asia,China,Shanghai,Apple Orchard Road,2,251.89,503.79,Credit Card,Premium
+917,2024-02-17,AirPods Max,Accessories,South America,Mexico,Guadalajara,Apple Eaton Centre,1,550.84,550.84,Credit Card,Enterprise
+918,2024-12-05,Apple Watch Ultra,Wearables,North America,USA,Los Angeles,Apple IFC Mall,1,824.46,824.46,PayPal,Education
+919,2024-02-12,iPad Pro,Tablets,Asia,Japan,Tokyo,Apple Ginza,1,1055.24,1055.24,Credit Card,Education
+920,2024-06-01,AirPods Pro,Accessories,Europe,France,Lyon,Apple Champs-Élysées,1,250.02,250.02,PayPal,Premium
+921,2024-02-05,Apple Watch Series 9,Wearables,South America,Mexico,Mexico City,Apple Pacific Centre,1,406.96,406.96,Apple Pay,Education
+922,2024-02-21,AirPods Max,Accessories,North America,USA,Los Angeles,Apple Sydney,2,540.11,1080.21,Bank Transfer,Consumer
+923,2024-09-22,Apple Watch SE,Wearables,Europe,France,Marseille,Apple Champs-Élysées,3,243.21,729.64,Bank Transfer,Education
+924,2024-04-01,Apple Watch Series 9,Wearables,North America,Canada,Vancouver,Apple Dubai Mall,1,396.53,396.53,Credit Card,Education
+925,2024-01-02,iPad Air,Tablets,South America,Mexico,Mexico City,Apple IFC Mall,1,572.98,572.98,Bank Transfer,Enterprise
+926,2024-03-05,iPhone 15,Smartphone,North America,USA,Los Angeles,Apple Ginza,2,830.44,1660.88,PayPal,Enterprise
+927,2024-10-04,"MacBook Pro 16""",Computers,Europe,UK,Manchester,Apple Fifth Avenue,2,2592.29,5184.58,Apple Pay,Education
+928,2024-12-16,iPad Pro,Tablets,Middle East,Saudi Arabia,Jeddah,Apple Orchard Road,3,1048.82,3146.47,Credit Card,Consumer
+929,2024-03-15,iPhone 14,Smartphone,Asia,South Korea,Seoul,Apple Ginza,1,692.07,692.07,Debit Card,Education
+930,2024-10-11,Apple Watch Ultra,Wearables,Asia,Australia,Melbourne,Apple Eaton Centre,3,792.23,2376.69,Debit Card,Premium
+931,2024-10-14,Apple Watch Series 9,Wearables,Europe,France,Paris,Apple Orchard Road,2,394.31,788.62,Credit Card,Premium
+932,2024-08-18,iPad Pro,Tablets,South America,Brazil,São Paulo,Apple Champs-Élysées,1,1133.94,1133.94,Credit Card,Education
+933,2024-02-22,iPhone 14,Smartphone,South America,Mexico,Guadalajara,Apple Regent Street,1,694.71,694.71,Debit Card,Education
+934,2024-12-27,Apple Watch Ultra,Wearables,North America,Canada,Montreal,Apple Dubai Mall,1,806.29,806.29,Apple Pay,Consumer
+935,2024-07-29,MacBook Air,Computers,Middle East,UAE,Dubai,Apple IFC Mall,2,1045.95,2091.9,Bank Transfer,Consumer
+936,2024-03-06,AirPods 3rd Gen,Accessories,South America,Mexico,Guadalajara,Apple Eaton Centre,4,176.22,704.87,PayPal,Consumer
+937,2024-05-11,AirPods Pro,Accessories,North America,USA,Los Angeles,Apple Eaton Centre,1,240.11,240.11,Debit Card,Enterprise
+938,2024-07-19,Apple Watch SE,Wearables,Asia,China,Hong Kong,Apple IFC Mall,5,253.46,1267.31,PayPal,Enterprise
+939,2024-09-27,iPhone 14,Smartphone,North America,USA,New York,Apple IFC Mall,1,685.32,685.32,PayPal,Consumer
+940,2024-04-14,MacBook Air,Computers,Europe,UK,London,Apple Fifth Avenue,1,1110.19,1110.19,Bank Transfer,Enterprise
+941,2024-06-17,AirPods 3rd Gen,Accessories,Middle East,Saudi Arabia,Jeddah,Apple Regent Street,1,185.83,185.83,Debit Card,Education
+942,2024-02-17,"MacBook Pro 14""",Computers,South America,Mexico,Guadalajara,Apple Champs-Élysées,2,2060.32,4120.65,Debit Card,Consumer
+943,2024-01-29,AirPods Max,Accessories,Europe,Germany,Munich,Apple Dubai Mall,1,548.01,548.01,Credit Card,Enterprise
+944,2024-07-06,AirPods Pro,Accessories,South America,Mexico,Mexico City,Apple Sydney,4,258.01,1032.04,Credit Card,Premium
+945,2024-08-18,AirPods Pro,Accessories,Europe,Italy,Milan,Apple Fifth Avenue,2,243.02,486.04,PayPal,Enterprise
+946,2024-01-23,AirPods Pro,Accessories,Asia,China,Beijing,Apple Union Square,1,239.3,239.3,Debit Card,Education
+947,2024-04-08,AirPods Pro,Accessories,Asia,China,Hong Kong,Apple Sydney,1,244.86,244.86,Apple Pay,Premium
+948,2024-07-15,MacBook Air,Computers,North America,USA,San Francisco,Apple Sydney,1,1050.06,1050.06,PayPal,Premium
+949,2024-10-07,iPhone 14,Smartphone,North America,Canada,Montreal,Apple Pacific Centre,1,732.22,732.22,Debit Card,Premium
+950,2024-12-15,iPhone 15,Smartphone,Europe,Italy,Milan,Apple Ginza,1,827.2,827.2,Bank Transfer,Education
+951,2024-01-08,Apple Watch Series 9,Wearables,Middle East,Saudi Arabia,Riyadh,Apple Champs-Élysées,2,385.41,770.82,PayPal,Education
+952,2024-10-03,iPhone 15,Smartphone,North America,Canada,Vancouver,Apple Union Square,1,831.71,831.71,Apple Pay,Enterprise
+953,2024-02-11,iPad Pro,Tablets,South America,Brazil,São Paulo,Apple Champs-Élysées,1,1068.97,1068.97,Credit Card,Enterprise
+954,2024-06-27,iPhone 15 Pro,Smartphone,Middle East,UAE,Abu Dhabi,Apple Sydney,4,1012.38,4049.5,Debit Card,Education
+955,2024-10-04,iPad Mini,Tablets,Asia,Japan,Osaka,Apple Sydney,1,509.74,509.74,Credit Card,Premium
+956,2024-07-12,iPad Mini,Tablets,South America,Brazil,São Paulo,Apple Sydney,1,504.99,504.99,Debit Card,Education
+957,2024-11-10,iPad Mini,Tablets,Europe,Germany,Berlin,Apple Sydney,1,477.8,477.8,PayPal,Enterprise
+958,2024-05-17,AirPods Max,Accessories,Asia,Australia,Sydney,Apple Fifth Avenue,1,549.55,549.55,Bank Transfer,Consumer
+959,2024-10-11,iPhone 15,Smartphone,South America,Brazil,Rio de Janeiro,Apple Union Square,1,767.97,767.97,Debit Card,Premium
+960,2024-05-07,iPhone 15,Smartphone,North America,USA,Miami,Apple Michigan Avenue,3,809.3,2427.89,Apple Pay,Enterprise
+961,2024-08-23,AirPods Max,Accessories,North America,Canada,Toronto,Apple Michigan Avenue,1,571.14,571.14,PayPal,Consumer
+962,2024-05-18,"MacBook Pro 16""",Computers,Asia,Singapore,Singapore,Apple Eaton Centre,2,2542.06,5084.13,PayPal,Education
+963,2024-12-23,AirPods Max,Accessories,South America,Mexico,Guadalajara,Apple Eaton Centre,1,552.62,552.62,PayPal,Enterprise
+964,2024-07-23,AirPods Pro,Accessories,North America,Canada,Toronto,Apple IFC Mall,1,238.88,238.88,PayPal,Premium
+965,2024-10-01,iPad Air,Tablets,Asia,China,Beijing,Apple IFC Mall,1,591.98,591.98,Bank Transfer,Premium
+966,2024-07-19,iPhone 15 Pro,Smartphone,Middle East,Saudi Arabia,Jeddah,Apple Fifth Avenue,2,962.69,1925.37,Bank Transfer,Premium
+967,2024-09-07,AirPods Max,Accessories,Europe,UK,Edinburgh,Apple Orchard Road,1,547.25,547.25,PayPal,Education
+968,2024-11-29,Apple Watch Ultra,Wearables,Middle East,UAE,Dubai,Apple Eaton Centre,1,784.54,784.54,Apple Pay,Education
+969,2024-01-15,iPhone 15,Smartphone,South America,Mexico,Mexico City,Apple Fifth Avenue,3,792.15,2376.46,PayPal,Premium
+970,2024-02-15,MacBook Air,Computers,North America,Canada,Montreal,Apple Sydney,1,1058.61,1058.61,Apple Pay,Premium
+971,2024-05-29,"MacBook Pro 16""",Computers,North America,Canada,Toronto,Apple Sydney,3,2449.82,7349.47,Bank Transfer,Consumer
+972,2024-01-08,MacBook Air,Computers,Middle East,Saudi Arabia,Riyadh,Apple Fifth Avenue,1,1053.21,1053.21,PayPal,Premium
+973,2024-12-26,iPhone 15,Smartphone,Asia,Japan,Tokyo,Apple Dubai Mall,2,762.15,1524.3,Apple Pay,Enterprise
+974,2024-04-22,"MacBook Pro 14""",Computers,Asia,China,Beijing,Apple Michigan Avenue,3,1919.3,5757.89,PayPal,Consumer
+975,2024-05-10,iPad Mini,Tablets,Europe,UK,Edinburgh,Apple IFC Mall,1,499.21,499.21,Bank Transfer,Education
+976,2024-01-09,AirPods Pro,Accessories,South America,Brazil,São Paulo,Apple Regent Street,1,254.98,254.98,Debit Card,Enterprise
+977,2024-02-20,iPad Mini,Tablets,Middle East,Saudi Arabia,Riyadh,Apple Eaton Centre,2,504.83,1009.67,PayPal,Enterprise
+978,2024-05-07,iPad Mini,Tablets,Europe,Italy,Rome,Apple Sydney,1,517.14,517.14,Debit Card,Premium
+979,2024-08-16,AirPods Max,Accessories,South America,Brazil,Rio de Janeiro,Apple Ginza,1,557.02,557.02,Debit Card,Premium
+980,2024-03-29,iPhone 14,Smartphone,South America,Mexico,Mexico City,Apple Fifth Avenue,1,695.34,695.34,Bank Transfer,Consumer
+981,2024-04-14,iPhone 14,Smartphone,Asia,China,Shanghai,Apple Union Square,3,695.86,2087.59,Credit Card,Premium
+982,2024-07-04,iPad Mini,Tablets,Europe,Italy,Rome,Apple Orchard Road,1,490.91,490.91,Debit Card,Premium
+983,2024-10-09,Apple Watch Series 9,Wearables,Asia,China,Hong Kong,Apple Regent Street,5,387.89,1939.43,Bank Transfer,Consumer
+984,2024-11-19,AirPods Max,Accessories,North America,USA,Los Angeles,Apple Fifth Avenue,1,535.7,535.7,PayPal,Enterprise
+985,2024-09-25,Apple Watch SE,Wearables,Europe,Italy,Florence,Apple Orchard Road,1,249.6,249.6,Debit Card,Consumer
+986,2024-03-13,"MacBook Pro 16""",Computers,South America,Brazil,São Paulo,Apple Pacific Centre,1,2454.05,2454.05,Bank Transfer,Premium
+987,2024-10-20,iPad Pro,Tablets,North America,Canada,Toronto,Apple Pacific Centre,5,1065.06,5325.32,Debit Card,Consumer
+988,2024-09-22,Apple Watch Series 9,Wearables,Middle East,UAE,Abu Dhabi,Apple Ginza,4,395.33,1581.32,Bank Transfer,Education
+989,2024-04-10,iPad Air,Tablets,South America,Mexico,Mexico City,Apple Sydney,1,611.04,611.04,Bank Transfer,Consumer
+990,2024-06-16,Apple Watch SE,Wearables,Asia,Japan,Osaka,Apple Fifth Avenue,1,243.48,243.48,Debit Card,Enterprise
+991,2024-11-22,iPhone 15,Smartphone,Europe,Germany,Hamburg,Apple Sydney,1,837.68,837.68,Credit Card,Consumer
+992,2024-07-04,iPhone 14,Smartphone,Asia,China,Beijing,Apple Regent Street,1,707.66,707.66,Bank Transfer,Consumer
+993,2024-12-18,"MacBook Pro 16""",Computers,Asia,China,Hong Kong,Apple Ginza,3,2441.61,7324.83,Apple Pay,Enterprise
+994,2024-09-27,MacBook Air,Computers,South America,Brazil,São Paulo,Apple Regent Street,2,1089.21,2178.42,PayPal,Consumer
+995,2024-03-13,Apple Watch Ultra,Wearables,Middle East,Saudi Arabia,Riyadh,Apple Champs-Élysées,2,781.1,1562.19,Bank Transfer,Consumer
+996,2024-10-25,Apple Watch SE,Wearables,Asia,South Korea,Seoul,Apple Eaton Centre,1,239.06,239.06,Bank Transfer,Education
+997,2024-08-25,iPad Air,Tablets,Europe,Italy,Rome,Apple Fifth Avenue,5,577.12,2885.61,Apple Pay,Consumer
+998,2024-07-14,Apple Watch Series 9,Wearables,North America,USA,Chicago,Apple Union Square,1,399.08,399.08,Debit Card,Education
+999,2024-04-08,Apple Watch Ultra,Wearables,North America,Canada,Vancouver,Apple Fifth Avenue,1,823.99,823.99,PayPal,Consumer
+1000,2024-06-13,iPhone 14,Smartphone,Europe,France,Marseille,Apple IFC Mall,3,669.83,2009.5,Credit Card,Consumer
